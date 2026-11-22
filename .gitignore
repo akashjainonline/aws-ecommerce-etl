@@ -1,0 +1,28 @@
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# AWS Credentials and Secrets
+.env
+.env.*
+.aws/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db

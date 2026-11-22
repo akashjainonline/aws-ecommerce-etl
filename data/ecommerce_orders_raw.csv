@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,product,category,quantity,price,city,payment_method,status
+ORD1001,CUST158,2026-05-06,Smartphone,Electronics,1,23594.23,Sagar,UPI,Returned
+ORD1002,CUST156,2026-02-17,Smartphone,Electronics,4,18909.77,Jabalpur,Net Banking,Returned
+ORD1003,CUST208,2026-10-07,Laptop,Electronics,2,47916.26,Jabalpur,Cash on Delivery,Returned
+ORD1004,CUST279,2026-03-23,Desk,Furniture,1,9698.78,Mumbai,Debit Card,Processing
+ORD1005,CUST127,2026-06-22,Headphones,Electronics,2,2842.91,Indore,Cash on Delivery,Delivered
+ORD1006,CUST287,2026-01-23,Shoes,Fashion,3,3299.58,Pune,Net Banking,Delivered
+ORD1007,CUST327,2026-11-13,T-Shirt,Fashion,1,812.49,Delhi,Net Banking,Shipped
+ORD1008,CUST121,2026-05-29,Smartphone,Electronics,1,23064.34,Jabalpur,UPI,Cancelled
+ORD1009,CUST142,2026-07-06,Desk,Furniture,4,9366.35,Delhi,Debit Card,Shipped
+ORD1010,CUST237,2026-03-29,Desk,Furniture,1,9294.65,Jabalpur,Credit Card,Cancelled
+ORD1011,,2026-10-13,T-Shirt,Fashion,3,917.49,Delhi,UPI,Shipped
+ORD1012,CUST155,2026-02-03,Laptop,Electronics,3,43665.72,Lucknow,Debit Card,Shipped
+ORD1013,CUST137,2026-08-23,Mixer Grinder,Home Appliances,4,3123.13,Gwalior,Credit Card,Shipped
+ORD1014,CUST330,2026-08-08,Water Bottle,Home & Kitchen,3,483.35,Lucknow,Cash on Delivery,Processing
+ORD1015,CUST294,2026-02-16,Office Chair,Furniture,2,6518.58,Bhopal,UPI,Shipped
+ORD1016,CUST198,2026-07-17,Headphones,Electronics,4,2572.31,Lucknow,Cash on Delivery,Returned
+ORD1017,CUST275,2026-02-28,Desk,Furniture,1,9486.77,Jaipur,Debit Card,Processing
+ORD1018,CUST101,2026-08-21,Smartphone,Electronics,3,21569.45,Gwalior,Net Banking,Shipped
+ORD1019,CUST316,2026-06-02,Water Bottle,Home & Kitchen,1,500.02,Jaipur,Net Banking,Shipped
+ORD1020,CUST345,2026-10-04,Headphones,Electronics,3,2696.88,Jaipur,UPI,Returned
+ORD1021,CUST325,2026-07-05,Shoes,Fashion,4,2738.7,Gwalior,Credit Card,Delivered
+ORD1022,CUST309,2026-09-06,Office Chair,Furniture,1,5692.02,Indore,Net Banking,Shipped
+ORD1023,CUST168,2026-03-26,Headphones,Electronics,4,2835.14,Jaipur,Net Banking,Cancelled
+ORD1024,CUST272,2026-07-24,Office Chair,Furniture,2,6915.25,Delhi,Cash on Delivery,Returned
+ORD1025,CUST187,2026-02-02,Mixer Grinder,Home Appliances,1,2588.24,Bhopal,Net Banking,Returned
+ORD1026,CUST159,2026-01-31,Office Chair,Furniture,2,-500.0,Indore,UPI,Processing
+ORD1027,CUST155,2026-09-06,Smartphone,Electronics,2,20537.95,Jaipur,Credit Card,Returned
+ORD1028,CUST307,2026-08-31,Backpack,Accessories,4,1292.06,Mumbai,Credit Card,Delivered
+ORD1029,CUST220,2026-07-30,Smartphone,Electronics,4,21038.36,Bhopal,UPI,Delivered
+ORD1030,CUST164,2026-02-25,T-Shirt,Fashion,3,872.14,Jabalpur,Credit Card,Returned
+ORD1031,CUST219,2026-05-23,Mixer Grinder,Home Appliances,2,2734.38,Jabalpur,UPI,Cancelled
+ORD1032,CUST315,2026-10-04,Water Bottle,Home & Kitchen,1,389.33,Bhopal,UPI,Shipped
+ORD1033,CUST322,2026-04-20,Headphones,Electronics,4,2489.23,Mumbai,UPI,Shipped
+ORD1034,CUST338,2026-05-16,T-Shirt,Fashion,1,916.47,Pune,Debit Card,Cancelled
+ORD1035,CUST156,2026-06-01,Water Bottle,Home & Kitchen,4,403.4,Bhopal,Net Banking,Returned
+ORD1036,CUST223,2026-10-27,Laptop,Electronics,3,39021.73,Jaipur,Net Banking,Shipped
+ORD1037,CUST253,2026-02-05,Laptop,Electronics,1,49743.12,Indore,Credit Card,Cancelled
+ORD1038,CUST259,2026-01-21,Smartphone,Electronics,2,22520.87,Indore,Cash on Delivery,Returned
+ORD1039,CUST272,2026-04-15,Backpack,Accessories,3,1582.58,Delhi,Credit Card,Processing
+ORD1040,CUST218,2026-06-03,T-Shirt,Fashion,2,841.21,Delhi,UPI,Delivered
+ORD1041,CUST230,2026-04-20,Mixer Grinder,Home Appliances,0,2441.54,Gwalior,Credit Card,Processing
+ORD1042,CUST213,2026-03-22,Smartphone,Electronics,2,21138.88,Jaipur,Debit Card,Returned
+ORD1043,CUST177,2026-10-11,Water Bottle,Home & Kitchen,1,472.66,Indore,Credit Card,Processing
+ORD1044,CUST170,2026-03-21,Smartphone,Electronics,1,23599.95,Gwalior,Net Banking,Shipped
+ORD1045,CUST230,2026-05-16,Shoes,Fashion,2,3380.0,Pune,Debit Card,Delivered
+ORD1046,CUST101,2026-01-23,Smartphone,Electronics,4,24173.7,Delhi,Credit Card,Processing
+ORD1047,CUST244,2026-08-07,Headphones,Electronics,4,2538.76,Bhopal,UPI,Delivered
+ORD1048,CUST242,2026-10-26,Headphones,Electronics,1,2750.95,Sagar,Cash on Delivery,Shipped
+ORD1049,CUST331,2026-01-21,Laptop,Electronics,3,43172.8,Delhi,Credit Card,Shipped
+ORD1050,CUST350,2026-07-28,Smartphone,Electronics,3,23848.77,Lucknow,Credit Card,Shipped
+ORD1051,CUST146,2026-01-13,Headphones,Electronics,2,2786.06,Delhi,Cash on Delivery,Shipped
+ORD1052,CUST198,2026-02-25,Desk,Furniture,2,9775.91,Bhopal,Cash on Delivery,Shipped
+ORD1053,CUST158,2026-04-27,Office Chair,Furniture,4,6206.83,Bhopal,Credit Card,Cancelled
+ORD1054,CUST190,2026-05-23,Shoes,Fashion,3,3549.78,Jaipur,Cash on Delivery,Returned
+ORD1055,CUST146,2026-05-14,Shoes,Fashion,1,2830.73,Lucknow,Debit Card,Delivered
+ORD1056,CUST212,not-a-date,Smartphone,Electronics,4,20981.53,Lucknow,Net Banking,Delivered
+ORD1057,CUST101,2026-08-12,T-Shirt,Fashion,2,741.13,Jaipur,Net Banking,Shipped
+ORD1058,CUST260,2026-06-19,Shoes,Fashion,4,2787.17,Delhi,UPI,Processing
+ORD1059,CUST204,2026-06-17,Water Bottle,Home & Kitchen,3,472.53,Gwalior,Net Banking,Shipped
+ORD1060,CUST274,2026-07-14,Office Chair,Furniture,4,6821.61,Sagar,Net Banking,Returned
+ORD1061,CUST178,2026-01-01,Desk,Furniture,4,9129.43,Gwalior,Credit Card,Cancelled
+ORD1062,CUST273,2026-08-15,Backpack,Accessories,3,1385.3,Jabalpur,Net Banking,Cancelled
+ORD1063,CUST186,2026-11-14,Headphones,Electronics,1,2337.84,Indore,Credit Card,Processing
+ORD1064,CUST163,2026-01-24,Office Chair,Furniture,2,5812.34,Pune,Net Banking,Delivered
+ORD1065,CUST150,2026-10-22,Mixer Grinder,Home Appliances,4,3124.36,Mumbai,Cash on Delivery,Cancelled
+ORD1066,CUST329,2026-01-03,Office Chair,Furniture,2,6804.31,Indore,Cash on Delivery,Shipped
+ORD1067,CUST335,2026-05-08,Headphones,Electronics,4,2162.66,Indore,Cash on Delivery,Shipped
+ORD1068,CUST257,2026-08-15,Mixer Grinder,Home Appliances,3,3178.03,Jaipur,Cash on Delivery,Returned
+ORD1069,CUST216,2026-09-01,Mixer Grinder,Home Appliances,2,3004.67,Gwalior,Credit Card,Processing
+ORD1070,CUST213,2026-05-21,Water Bottle,Home & Kitchen,4,467.11,Indore,Debit Card,Shipped
+ORD1070,CUST121,2026-10-04,Desk,Furniture,3,8513.22,Sagar,Credit Card,Shipped
+ORD1072,CUST207,2026-02-02,T-Shirt,Fashion,2,849.54,Mumbai,Debit Card,Returned
+ORD1073,CUST200,2026-08-04,Mixer Grinder,Home Appliances,4,2432.3,Lucknow,UPI,Returned
+ORD1074,CUST177,2026-06-30,T-Shirt,Fashion,4,681.42,Mumbai,Cash on Delivery,Returned
+ORD1075,CUST212,2026-05-20,Water Bottle,Home & Kitchen,2,448.41,Pune,UPI,Cancelled
+ORD1076,CUST336,2026-08-28,Shoes,Fashion,4,3415.21,Sagar,Net Banking,Returned
+ORD1077,CUST122,2026-01-14,Laptop,Electronics,4,46240.55,Mumbai,Credit Card,Cancelled
+ORD1078,CUST155,2026-06-17,Headphones,Electronics,1,2320.12,Pune,Debit Card,Processing
+ORD1079,CUST165,2026-08-04,T-Shirt,Fashion,3,860.48,Indore,Cash on Delivery,Delivered
+ORD1080,CUST158,2026-06-29,Water Bottle,Home & Kitchen,1,517.49,Indore,UPI,Delivered
+ORD1081,CUST140,2026-11-15,Office Chair,Furniture,2,7161.5,Jabalpur,Credit Card,Cancelled
+ORD1082,CUST297,2026-05-12,Smartphone,Electronics,2,21769.22,Delhi,Credit Card,Returned
+ORD1083,CUST347,2026-03-25,Backpack,Accessories,1,1516.67,Gwalior,UPI,Returned
+ORD1084,CUST202,2026-07-12,Laptop,Electronics,3,46023.26,Jabalpur,UPI,Returned
+ORD1085,CUST318,2026-06-04,Office Chair,Furniture,1,6884.53,Lucknow,UPI,Returned
+ORD1086,CUST118,2026-07-09,Laptop,Electronics,3,45442.06,,Debit Card,Delivered
+ORD1087,CUST263,2026-07-05,T-Shirt,Fashion,4,705.33,Pune,Credit Card,Cancelled
+ORD1088,CUST299,2026-10-03,Headphones,Electronics,3,2586.93,Pune,Cash on Delivery,Cancelled
+ORD1089,CUST313,2026-05-06,Backpack,Accessories,3,1325.37,Indore,Debit Card,Cancelled
+ORD1090,CUST187,2026-07-14,Office Chair,Furniture,4,6636.21,Bhopal,Cash on Delivery,Processing
+ORD1091,CUST188,2026-05-13,Headphones,Electronics,4,2284.09,Gwalior,Net Banking,Processing
+ORD1092,CUST122,2026-04-08,Water Bottle,Home & Kitchen,1,452.24,Jabalpur,Cash on Delivery,Cancelled
+ORD1093,CUST215,2026-09-09,Water Bottle,Home & Kitchen,2,475.73,Bhopal,UPI,Processing
+ORD1094,CUST270,2026-06-06,Office Chair,Furniture,4,6873.98,Lucknow,Debit Card,Cancelled
+ORD1095,CUST185,2026-10-09,Water Bottle,Home & Kitchen,3,439.94,Delhi,Cash on Delivery,Processing
+ORD1096,CUST181,2026-04-09,Desk,Furniture,3,8272.45,Indore,Net Banking,Shipped
+ORD1097,CUST286,2026-05-22,Office Chair,Furniture,2,6965.28,Lucknow,Net Banking,Returned
+ORD1098,CUST159,2026-06-01,Desk,Furniture,1,9898.1,Delhi,Credit Card,Processing
+ORD1099,CUST242,2026-01-28,Laptop,Electronics,2,41953.2,Gwalior,Credit Card,Cancelled
+ORD1100,CUST223,2026-08-29,Smartphone,Electronics,1,22488.82,Pune,Debit Card,Shipped
+ORD1101,CUST130,2026-09-02,Laptop,Electronics,3,50954.36,Indore,Cash on Delivery,Cancelled
+ORD1102,CUST343,2026-10-16,Smartphone,Electronics,1,19701.4,Gwalior,UPI,Shipped
+ORD1103,CUST158,2026-11-13,Smartphone,Electronics,4,22701.7,Jaipur,Cash on Delivery,Cancelled
+ORD1104,CUST179,2026-08-08,Mixer Grinder,Home Appliances,3,3102.54,Lucknow,Net Banking,Delivered
+ORD1105,CUST261,2026-04-17,Backpack,Accessories,1,1587.99,Jabalpur,Debit Card,Delivered
+ORD1106,CUST141,2026-02-08,Headphones,Electronics,2,2255.36,Bhopal,Cash on Delivery,Cancelled
+ORD1107,CUST174,2026-04-29,Backpack,Accessories,4,1312.33,Gwalior,Cash on Delivery,Delivered
+ORD1108,CUST251,2026-11-17,Office Chair,Furniture,3,7061.26,Jabalpur,Cash on Delivery,Delivered
+ORD1109,CUST312,2026-05-17,Water Bottle,Home & Kitchen,2,469.93,Sagar,UPI,Delivered
+ORD1110,CUST336,2026-10-19,Headphones,Electronics,3,2571.28,Gwalior,Cash on Delivery,Delivered
+ORD1111,CUST229,2026-05-20,Mixer Grinder,Home Appliances,3,2967.78,Jaipur,Cash on Delivery,Cancelled
+ORD1112,CUST255,2026-06-15,Smartphone,Electronics,1,24570.19,Gwalior,UPI,Delivered
+ORD1113,CUST248,2026-05-18,Office Chair,Furniture,1,7474.17,Bhopal,Credit Card,Cancelled
+ORD1114,CUST250,2026-04-03,Water Bottle,Home & Kitchen,4,506.17,Mumbai,Cash on Delivery,Delivered
+ORD1115,CUST272,2026-06-14,Mixer Grinder,Home Appliances,3,2723.01,Indore,Credit Card,Processing
+ORD1116,CUST309,2026-07-25,T-Shirt,Fashion,4,749.17,Jaipur,UPI,Cancelled
+ORD1117,CUST349,2026-03-01,Smartphone,Electronics,3,20365.83,Mumbai,Net Banking,Delivered
+ORD1118,CUST233,2026-04-07,Water Bottle,Home & Kitchen,4,438.29,Delhi,Net Banking,Cancelled
+ORD1119,CUST134,2026-10-09,Mixer Grinder,Home Appliances,1,2550.99,Gwalior,Cash on Delivery,Cancelled
+ORD1120,CUST305,2026-11-08,Smartphone,Electronics,1,25122.77,Jabalpur,Credit Card,Processing
+ORD1121,CUST158,2026-02-17,Water Bottle,Home & Kitchen,1,457.05,Indore,Cash on Delivery,Delivered
+ORD1122,CUST231,2026-05-30,Headphones,Electronics,4,2824.49,Gwalior,Cash on Delivery,Cancelled
+ORD1123,CUST199,2026-03-16,Mixer Grinder,Home Appliances,2,2763.7,Jabalpur,Net Banking,Returned
+ORD1124,CUST188,2026-08-01,Headphones,Electronics,1,2332.19,Jaipur,Debit Card,Delivered
+ORD1125,CUST269,2026-10-24,Desk,Furniture,3,9911.18,Pune,Credit Card,Cancelled
+ORD1126,CUST296,2026-10-10,Water Bottle,Home & Kitchen,4,429.09,Jaipur,Cash on Delivery,Cancelled
+ORD1127,CUST247,2026-05-03,Shoes,Fashion,2,3661.54,Mumbai,Credit Card,Cancelled
+ORD1128,CUST199,2026-07-15,Laptop,Electronics,3,48303.52,Sagar,Cash on Delivery,Delivered
+ORD1129,CUST126,2026-08-14,Headphones,Electronics,3,2777.28,Jaipur,Cash on Delivery,Delivered
+ORD1130,CUST120,2026-03-21,Headphones,Electronics,4,2778.2,Pune,Debit Card,Processing
+ORD1131,CUST319,2026-06-18,Backpack,Accessories,4,1462.93,Jaipur,Cash on Delivery,Processing
+ORD1132,CUST262,2026-05-01,Mixer Grinder,Home Appliances,1,2898.67,Gwalior,Credit Card,Delivered
+ORD1133,CUST214,2026-02-21,T-Shirt,Fashion,1,862.49,Sagar,Debit Card,Delivered
+ORD1134,CUST192,2026-05-31,Laptop,Electronics,3,48997.94,Delhi,Cash on Delivery,Shipped
+ORD1135,CUST144,2026-04-03,Office Chair,Furniture,4,6628.56,Sagar,UPI,Returned
+ORD1136,CUST137,2026-10-26,T-Shirt,Fashion,2,799.44,Jabalpur,Cash on Delivery,Processing
+ORD1137,CUST331,2026-08-27,Mixer Grinder,Home Appliances,3,2940.15,Gwalior,Net Banking,Shipped
+ORD1138,CUST177,2026-10-28,Smartphone,Electronics,4,24938.56,Mumbai,Debit Card,Cancelled
+ORD1139,CUST128,2026-09-05,Desk,Furniture,2,10348.31,Jabalpur,Cash on Delivery,Returned
+ORD1140,CUST106,2026-06-01,Shoes,Fashion,3,3672.98,Mumbai,Debit Card,Delivered
+ORD1141,CUST314,2026-09-12,Backpack,Accessories,1,1572.46,Gwalior,Credit Card,Returned
+ORD1142,CUST165,2026-11-14,Shoes,Fashion,2,3331.15,Sagar,UPI,Delivered
+ORD1143,CUST288,2026-07-06,Desk,Furniture,4,7740.08,Sagar,UPI,Processing
+ORD1144,CUST302,2026-03-09,Shoes,Fashion,4,2888.61,Jaipur,Debit Card,Returned
+ORD1145,CUST334,2026-05-12,Water Bottle,Home & Kitchen,3,494.61,Pune,Debit Card,Processing
+ORD1146,CUST294,2026-03-14,Smartphone,Electronics,4,25055.1,Jabalpur,Cash on Delivery,Returned
+ORD1147,CUST168,2026-01-08,Shoes,Fashion,1,3479.05,Jaipur,UPI,Cancelled
+ORD1148,CUST128,2026-07-10,Shoes,Fashion,3,3281.18,Jabalpur,Cash on Delivery,Delivered
+ORD1149,CUST266,2026-04-24,Backpack,Accessories,3,1574.41,Indore,Cash on Delivery,Processing
+ORD1150,CUST178,2026-01-20,T-Shirt,Fashion,1,713.55,Pune,UPI,Delivered
+ORD1151,CUST272,2026-07-09,Office Chair,Furniture,2,6282.86,Jaipur,Cash on Delivery,Returned
+ORD1152,CUST258,2026-09-08,Headphones,Electronics,4,2616.19,Mumbai,Debit Card,Delivered
+ORD1153,CUST319,2026-05-01,Shoes,Fashion,2,3145.65,Delhi,UPI,Processing
+ORD1154,CUST149,2026-05-22,Water Bottle,Home & Kitchen,3,390.67,Indore,Cash on Delivery,Delivered
+ORD1155,CUST163,2026-06-20,Office Chair,Furniture,1,5623.63,Sagar,Net Banking,Shipped
+ORD1156,CUST185,2026-04-30,Smartphone,Electronics,2,22570.13,Sagar,Net Banking,Delivered
+ORD1157,CUST165,2026-10-04,Desk,Furniture,2,10316.32,Sagar,UPI,Delivered
+ORD1158,CUST251,2026-05-02,Headphones,Electronics,1,2393.68,Delhi,UPI,Shipped
+ORD1159,CUST235,2026-08-04,Desk,Furniture,1,7992.25,Indore,UPI,Cancelled
+ORD1160,CUST216,2026-02-25,Mixer Grinder,Home Appliances,3,2811.12,Jaipur,Credit Card,Returned
+ORD1161,CUST116,2026-01-16,Laptop,Electronics,3,44433.57,Pune,Cash on Delivery,Cancelled
+ORD1162,CUST119,2026-08-16,Smartphone,Electronics,4,23401.85,Indore,Debit Card,Returned
+ORD1163,CUST263,2026-11-16,Headphones,Electronics,1,2219.64,Lucknow,Net Banking,Processing
+ORD1164,CUST211,2026-11-06,T-Shirt,Fashion,3,788.89,Indore,UPI,Returned
+ORD1165,CUST206,2026-04-27,Office Chair,Furniture,4,6405.53,Delhi,Cash on Delivery,Cancelled
+ORD1166,CUST271,2026-06-10,T-Shirt,Fashion,1,755.01,Gwalior,Debit Card,Shipped
+ORD1167,CUST124,2026-02-13,Mixer Grinder,Home Appliances,1,2456.63,Mumbai,UPI,Processing
+ORD1168,CUST244,2026-10-15,Headphones,Electronics,1,2564.85,Delhi,UPI,Cancelled
+ORD1169,CUST348,2026-01-27,Shoes,Fashion,4,3553.37,Gwalior,Net Banking,Processing
+ORD1170,CUST140,2026-04-19,Shoes,Fashion,1,3274.8,Pune,Credit Card,Delivered
+ORD1171,CUST247,2026-05-23,Shoes,Fashion,3,2830.29,Jabalpur,Cash on Delivery,Returned
+ORD1172,CUST108,2026-05-17,Backpack,Accessories,1,1445.78,Sagar,Debit Card,Processing
+ORD1173,CUST245,2026-03-15,Shoes,Fashion,3,2725.86,Mumbai,UPI,Shipped
+ORD1174,CUST197,2026-04-21,Laptop,Electronics,1,48322.51,Mumbai,Cash on Delivery,Processing
+ORD1175,CUST299,2026-06-16,Headphones,Electronics,3,2358.73,Lucknow,Net Banking,Delivered
+ORD1176,CUST113,2026-11-13,Laptop,Electronics,2,40375.03,Indore,Debit Card,Cancelled
+ORD1177,CUST170,2026-08-01,T-Shirt,Fashion,4,825.7,Jabalpur,Net Banking,Delivered
+ORD1178,CUST225,2026-10-31,Shoes,Fashion,4,2826.45,Jaipur,Debit Card,Delivered
+ORD1179,CUST102,2026-01-29,Office Chair,Furniture,4,7444.67,Jabalpur,Debit Card,Shipped
+ORD1180,CUST102,2026-03-03,Headphones,Electronics,3,2342.09,Pune,Cash on Delivery,Shipped
+ORD1181,CUST229,2026-04-28,Headphones,Electronics,4,2524.44,Jaipur,Debit Card,Delivered
+ORD1182,CUST336,2026-08-24,T-Shirt,Fashion,1,784.69,Indore,Debit Card,Returned
+ORD1183,CUST175,2026-08-02,T-Shirt,Fashion,4,850.28,Indore,Cash on Delivery,Delivered
+ORD1184,CUST218,2026-11-13,Shoes,Fashion,2,3489.27,Delhi,UPI,Cancelled
+ORD1185,CUST235,2026-07-25,Smartphone,Electronics,2,21575.47,Indore,Cash on Delivery,Processing
+ORD1186,CUST120,2026-03-28,Shoes,Fashion,2,3039.75,Jaipur,UPI,Returned
+ORD1187,CUST190,2026-06-28,Water Bottle,Home & Kitchen,2,504.8,Sagar,Credit Card,Delivered
+ORD1188,CUST140,2026-11-05,Headphones,Electronics,3,2272.95,Indore,Credit Card,Cancelled
+ORD1189,CUST265,2026-10-17,Mixer Grinder,Home Appliances,4,2952.15,Lucknow,Debit Card,Processing
+ORD1190,CUST262,2026-08-15,Headphones,Electronics,4,2176.21,Gwalior,Debit Card,Returned
+ORD1191,CUST219,2026-06-08,Laptop,Electronics,3,45099.05,Pune,UPI,Delivered
+ORD1192,CUST258,2026-02-16,Shoes,Fashion,3,2793.66,Lucknow,Net Banking,Cancelled
+ORD1193,CUST267,2026-10-20,Mixer Grinder,Home Appliances,1,2757.78,Jabalpur,Debit Card,Returned
+ORD1194,CUST127,2026-08-19,Mixer Grinder,Home Appliances,2,3184.49,Delhi,UPI,Returned
+ORD1195,CUST213,2026-08-13,Headphones,Electronics,1,2310.81,Jaipur,Net Banking,Returned
+ORD1196,CUST200,2026-05-25,Headphones,Electronics,3,2404.64,Mumbai,Debit Card,Returned
+ORD1197,CUST243,2026-02-18,Laptop,Electronics,3,39139.81,Mumbai,Debit Card,Processing
+ORD1198,CUST270,2026-10-26,Backpack,Accessories,2,1330.01,Sagar,Debit Card,Processing
+ORD1199,CUST180,2026-02-13,T-Shirt,Fashion,2,822.81,Jaipur,Cash on Delivery,Processing
+ORD1200,CUST231,2026-08-05,Headphones,Electronics,1,2609.52,Delhi,UPI,Processing
+ORD1201,CUST343,2026-06-24,Desk,Furniture,2,10218.16,Pune,Credit Card,Shipped
+ORD1202,CUST230,2026-02-21,Headphones,Electronics,2,2182.87,Jaipur,Net Banking,Delivered
+ORD1203,CUST142,2026-03-20,Shoes,Fashion,2,3293.36,Sagar,Net Banking,Shipped
+ORD1204,CUST349,2026-05-02,Mixer Grinder,Home Appliances,1,2725.12,Pune,Net Banking,Processing
+ORD1205,CUST348,2026-06-08,Mixer Grinder,Home Appliances,2,2828.57,Pune,Credit Card,Processing
+ORD1206,CUST300,2026-05-25,Backpack,Accessories,4,1383.91,Mumbai,Net Banking,Returned
+ORD1207,CUST136,2026-11-06,T-Shirt,Fashion,2,876.05,Gwalior,UPI,Cancelled
+ORD1208,CUST318,2026-09-22,Shoes,Fashion,1,3402.94,Indore,Debit Card,Delivered
+ORD1209,CUST138,2026-09-20,Headphones,Electronics,3,2461.99,Mumbai,UPI,Shipped
+ORD1210,CUST114,2026-08-01,Mixer Grinder,Home Appliances,3,3161.6,Mumbai,Net Banking,Processing
+ORD1211,CUST158,2026-07-11,Office Chair,Furniture,4,7464.32,Bhopal,Debit Card,Delivered
+ORD1212,CUST335,2026-05-27,Shoes,Fashion,2,2852.1,Pune,Credit Card,Cancelled
+ORD1213,CUST166,2026-01-10,Mixer Grinder,Home Appliances,1,3140.92,Jabalpur,Credit Card,Returned
+ORD1214,CUST161,2026-05-28,Backpack,Accessories,4,1236.7,Gwalior,UPI,Delivered
+ORD1215,CUST218,2026-11-15,Office Chair,Furniture,4,6770.96,Indore,UPI,Cancelled
+ORD1216,CUST162,2026-10-22,Backpack,Accessories,1,1455.42,Sagar,Debit Card,Cancelled
+ORD1217,CUST148,2026-08-02,Laptop,Electronics,3,41497.62,Indore,Net Banking,Processing
+ORD1218,CUST112,2026-08-29,Smartphone,Electronics,1,21276.99,Mumbai,Debit Card,Processing
+ORD1219,CUST162,2026-06-26,Laptop,Electronics,3,48895.02,Indore,Net Banking,Processing
+ORD1220,CUST309,2026-06-23,Headphones,Electronics,1,2389.22,Sagar,Cash on Delivery,Cancelled
+ORD1221,CUST110,2026-08-23,Headphones,Electronics,2,2172.33,Gwalior,Credit Card,Delivered
+ORD1222,CUST232,2026-06-08,Office Chair,Furniture,1,6140.41,Mumbai,Net Banking,Cancelled
+ORD1223,CUST174,2026-04-08,Desk,Furniture,1,9683.89,Delhi,UPI,Processing
+ORD1224,CUST328,2026-08-12,Desk,Furniture,1,9808.22,Mumbai,Cash on Delivery,Cancelled
+ORD1225,CUST195,2026-09-12,Shoes,Fashion,2,3196.36,Jaipur,Debit Card,Delivered
+ORD1226,CUST240,2026-04-03,T-Shirt,Fashion,1,783.35,Gwalior,Debit Card,Delivered
+ORD1227,CUST215,2026-06-06,Smartphone,Electronics,3,23062.07,Lucknow,Cash on Delivery,Shipped
+ORD1228,CUST258,2026-06-30,Mixer Grinder,Home Appliances,3,2755.59,Mumbai,Debit Card,Delivered
+ORD1229,CUST344,2026-03-23,Smartphone,Electronics,4,21097.85,Bhopal,Credit Card,Returned
+ORD1230,CUST300,2026-05-01,Mixer Grinder,Home Appliances,1,2486.03,Delhi,Debit Card,Cancelled
+ORD1231,CUST343,2026-08-19,Backpack,Accessories,1,1444.14,Delhi,Debit Card,Cancelled
+ORD1232,CUST181,2026-07-23,Smartphone,Electronics,2,22194.44,Gwalior,Credit Card,Delivered
+ORD1233,CUST334,2026-07-18,Laptop,Electronics,2,44987.09,Jaipur,UPI,Processing
+ORD1234,CUST174,2026-11-10,Desk,Furniture,4,8229.34,Pune,Credit Card,Delivered
+ORD1235,CUST123,2026-08-16,Headphones,Electronics,1,2464.03,Delhi,Debit Card,Delivered
+ORD1236,CUST283,2026-03-22,Water Bottle,Home & Kitchen,3,502.83,Sagar,Debit Card,Returned
+ORD1237,CUST161,2026-03-13,Office Chair,Furniture,1,7446.01,Pune,UPI,Processing
+ORD1238,CUST134,2026-10-10,Water Bottle,Home & Kitchen,3,445.6,Lucknow,UPI,Delivered
+ORD1239,CUST235,2026-09-03,Desk,Furniture,4,10348.91,Mumbai,Cash on Delivery,Returned
+ORD1240,CUST216,2026-02-07,Smartphone,Electronics,2,25117.71,Pune,Net Banking,Processing
+ORD1241,CUST211,2026-03-08,Headphones,Electronics,2,2700.84,Jaipur,UPI,Delivered
+ORD1242,CUST183,2026-03-24,Water Bottle,Home & Kitchen,2,423.56,Jabalpur,Debit Card,Returned
+ORD1243,CUST171,2026-10-10,Desk,Furniture,1,8326.63,Sagar,Debit Card,Returned
+ORD1244,CUST252,2026-03-28,Water Bottle,Home & Kitchen,1,450.35,Lucknow,Credit Card,Shipped
+ORD1245,CUST111,2026-10-16,Backpack,Accessories,3,1543.86,Bhopal,UPI,Delivered
+ORD1246,CUST207,2026-10-20,Backpack,Accessories,3,1463.47,Lucknow,UPI,Cancelled
+ORD1247,CUST224,2026-06-04,Water Bottle,Home & Kitchen,3,469.16,Jabalpur,Cash on Delivery,Processing
+ORD1248,CUST213,2026-03-22,Mixer Grinder,Home Appliances,1,2958.44,Mumbai,Cash on Delivery,Cancelled
+ORD1249,CUST321,2026-06-10,Office Chair,Furniture,3,6707.99,Delhi,Debit Card,Cancelled
+ORD1250,CUST182,2026-02-24,Headphones,Electronics,3,2511.24,Jabalpur,Cash on Delivery,Delivered
+ORD1251,CUST113,2026-02-19,Desk,Furniture,4,8319.38,Gwalior,Cash on Delivery,Returned
+ORD1252,CUST309,2026-03-23,T-Shirt,Fashion,2,911.04,Delhi,Net Banking,Processing
+ORD1253,CUST220,2026-09-21,Office Chair,Furniture,2,6496.62,Pune,Debit Card,Cancelled
+ORD1254,CUST218,2026-09-16,Laptop,Electronics,1,51010.64,Jabalpur,Credit Card,Returned
+ORD1255,CUST253,2026-09-11,Shoes,Fashion,1,2768.52,Pune,Debit Card,Returned
+ORD1256,CUST287,2026-05-16,Laptop,Electronics,1,44067.52,Delhi,Cash on Delivery,Processing
+ORD1257,CUST150,2026-10-15,Laptop,Electronics,4,38940.63,Delhi,Net Banking,Processing
+ORD1258,CUST172,2026-10-09,Smartphone,Electronics,4,22028.09,Lucknow,Net Banking,Delivered
+ORD1259,CUST243,2026-06-23,Headphones,Electronics,1,2420.43,Delhi,Credit Card,Shipped
+ORD1260,CUST110,2026-01-24,Backpack,Accessories,4,1400.03,Sagar,Debit Card,Cancelled
+ORD1261,CUST136,2026-09-21,Water Bottle,Home & Kitchen,4,402.61,Delhi,Net Banking,Processing
+ORD1262,CUST252,2026-06-03,Headphones,Electronics,4,2867.96,Delhi,Net Banking,Returned
+ORD1263,CUST222,2026-06-03,Water Bottle,Home & Kitchen,4,478.18,Bhopal,Debit Card,Processing
+ORD1264,CUST253,2026-01-14,Smartphone,Electronics,4,22552.43,Pune,Debit Card,Returned
+ORD1265,CUST223,2026-10-26,Backpack,Accessories,2,1492.99,Sagar,Net Banking,Returned
+ORD1266,CUST109,2026-05-05,T-Shirt,Fashion,2,877.2,Lucknow,UPI,Shipped
+ORD1267,CUST206,2026-03-19,Laptop,Electronics,4,42484.85,Jabalpur,Cash on Delivery,Returned
+ORD1268,CUST281,2026-02-01,Backpack,Accessories,4,1556.58,Sagar,Net Banking,Shipped
+ORD1269,CUST235,2026-09-02,Water Bottle,Home & Kitchen,3,517.25,Mumbai,Debit Card,Shipped
+ORD1270,CUST257,2026-05-16,Mixer Grinder,Home Appliances,3,2838.87,Pune,Credit Card,Shipped
+ORD1271,CUST298,2026-06-02,Desk,Furniture,3,8257.14,Gwalior,Credit Card,Cancelled
+ORD1272,CUST174,2026-05-21,Shoes,Fashion,4,3054.85,Indore,Net Banking,Returned
+ORD1273,CUST175,2026-03-16,T-Shirt,Fashion,4,876.41,Bhopal,Debit Card,Delivered
+ORD1274,CUST155,2026-09-03,Shoes,Fashion,4,3349.73,Jabalpur,Net Banking,Processing
+ORD1275,CUST290,2026-11-12,Water Bottle,Home & Kitchen,3,401.03,Lucknow,Credit Card,Shipped
+ORD1276,CUST126,2026-01-27,Laptop,Electronics,2,46862.25,Mumbai,Debit Card,Cancelled
+ORD1277,CUST338,2026-10-09,Smartphone,Electronics,2,18734.2,Sagar,Cash on Delivery,Cancelled
+ORD1278,CUST183,2026-05-28,Mixer Grinder,Home Appliances,2,3014.97,Gwalior,UPI,Delivered
+ORD1279,CUST334,2026-01-20,Backpack,Accessories,2,1414.76,Sagar,Cash on Delivery,Shipped
+ORD1280,CUST340,2026-04-06,Laptop,Electronics,4,48887.47,Gwalior,UPI,Delivered
+ORD1281,CUST173,2026-06-21,Desk,Furniture,1,10156.83,Pune,Net Banking,Returned
+ORD1282,CUST170,2026-08-28,Mixer Grinder,Home Appliances,2,3094.89,Jabalpur,UPI,Processing
+ORD1283,CUST104,2026-04-06,Headphones,Electronics,4,2611.21,Delhi,Debit Card,Returned
+ORD1284,CUST312,2026-07-27,Office Chair,Furniture,2,6716.36,Mumbai,Net Banking,Processing
+ORD1285,CUST136,2026-04-05,Smartphone,Electronics,4,23117.09,Pune,Debit Card,Shipped
+ORD1286,CUST293,2026-08-17,Laptop,Electronics,3,43428.25,Gwalior,Debit Card,Processing
+ORD1287,CUST278,2026-07-04,Backpack,Accessories,1,1299.85,Jabalpur,UPI,Delivered
+ORD1288,CUST337,2026-09-15,Mixer Grinder,Home Appliances,3,2514.16,Gwalior,UPI,Processing
+ORD1289,CUST223,2026-03-10,Shoes,Fashion,2,2930.36,Sagar,Cash on Delivery,Returned
+ORD1290,CUST294,2026-08-30,Shoes,Fashion,4,3393.86,Jaipur,Credit Card,Shipped
+ORD1291,CUST281,2026-09-28,Backpack,Accessories,1,1410.71,Delhi,UPI,Returned
+ORD1292,CUST152,2026-09-16,Smartphone,Electronics,1,24169.91,Lucknow,Net Banking,Shipped
+ORD1293,CUST130,2026-08-15,Headphones,Electronics,3,2765.86,Jabalpur,Net Banking,Cancelled
+ORD1294,CUST134,2026-08-21,Smartphone,Electronics,4,24037.37,Jaipur,Cash on Delivery,Cancelled
+ORD1295,CUST286,2026-06-07,Backpack,Accessories,1,1424.69,Bhopal,Cash on Delivery,Processing
+ORD1296,CUST209,2026-01-24,Laptop,Electronics,2,46057.2,Delhi,UPI,Returned
+ORD1297,CUST109,2026-08-30,Laptop,Electronics,1,51562.85,Gwalior,Cash on Delivery,Shipped
+ORD1298,CUST215,2026-07-15,Headphones,Electronics,4,2405.85,Mumbai,Cash on Delivery,Delivered
+ORD1299,CUST131,2026-06-28,Water Bottle,Home & Kitchen,2,470.73,Sagar,Net Banking,Cancelled
+ORD1300,CUST314,2026-04-25,Water Bottle,Home & Kitchen,2,480.76,Bhopal,UPI,Processing
+ORD1301,CUST164,2026-04-28,Mixer Grinder,Home Appliances,4,2826.82,Pune,Debit Card,Shipped
+ORD1302,CUST109,2026-02-27,Desk,Furniture,2,10181.01,Mumbai,Net Banking,Delivered
+ORD1303,CUST109,2026-11-01,Office Chair,Furniture,2,5656.22,Pune,Net Banking,Delivered
+ORD1304,CUST239,2026-04-30,Office Chair,Furniture,1,6309.42,Jabalpur,UPI,Shipped
+ORD1305,CUST182,2026-10-22,Water Bottle,Home & Kitchen,3,414.11,Lucknow,Net Banking,Processing
+ORD1306,CUST157,2026-09-24,Office Chair,Furniture,3,7233.7,Mumbai,Debit Card,Processing
+ORD1307,CUST243,2026-08-07,Laptop,Electronics,2,46700.91,Pune,UPI,Processing
+ORD1308,CUST139,2026-07-29,T-Shirt,Fashion,3,847.11,Gwalior,Cash on Delivery,Shipped
+ORD1309,CUST177,2026-04-26,Water Bottle,Home & Kitchen,4,415.03,Sagar,Cash on Delivery,Delivered
+ORD1310,CUST236,2026-10-13,Water Bottle,Home & Kitchen,4,513.15,Sagar,Cash on Delivery,Shipped
+ORD1311,CUST337,2026-02-10,Desk,Furniture,2,8541.71,Pune,Debit Card,Delivered
+ORD1312,CUST273,2026-07-13,Water Bottle,Home & Kitchen,2,389.46,Lucknow,Net Banking,Delivered
+ORD1313,CUST286,2026-10-28,Smartphone,Electronics,2,24010.69,Jaipur,Credit Card,Cancelled
+ORD1314,CUST155,2026-01-08,Office Chair,Furniture,3,6116.22,Jabalpur,UPI,Cancelled
+ORD1315,CUST242,2026-05-03,Office Chair,Furniture,2,6298.43,Delhi,Debit Card,Cancelled
+ORD1316,CUST232,2026-07-04,Mixer Grinder,Home Appliances,3,2639.07,Pune,Cash on Delivery,Delivered
+ORD1317,CUST181,2026-07-09,Mixer Grinder,Home Appliances,3,3148.04,Mumbai,UPI,Returned
+ORD1318,CUST340,2026-10-11,Office Chair,Furniture,2,5556.63,Lucknow,Net Banking,Cancelled
+ORD1319,CUST198,2026-04-28,Desk,Furniture,2,8179.72,Lucknow,Credit Card,Cancelled
+ORD1320,CUST348,2026-09-08,Water Bottle,Home & Kitchen,3,417.24,Pune,Cash on Delivery,Shipped
+ORD1321,CUST226,2026-10-07,Shoes,Fashion,2,2854.36,Sagar,Net Banking,Delivered
+ORD1322,CUST342,2026-02-08,Water Bottle,Home & Kitchen,1,495.77,Bhopal,UPI,Cancelled
+ORD1323,CUST103,2026-03-19,Headphones,Electronics,2,2175.98,Jabalpur,Net Banking,Cancelled
+ORD1324,CUST334,2026-11-12,Shoes,Fashion,1,3313.12,Pune,Cash on Delivery,Delivered
+ORD1325,CUST285,2026-09-29,Laptop,Electronics,4,38409.99,Gwalior,Net Banking,Processing
+ORD1326,CUST128,2026-04-02,Laptop,Electronics,4,49133.26,Indore,Net Banking,Shipped
+ORD1327,CUST309,2026-05-10,Office Chair,Furniture,2,6733.57,Delhi,Debit Card,Cancelled
+ORD1328,CUST245,2026-08-24,Smartphone,Electronics,3,25031.37,Jabalpur,Credit Card,Processing
+ORD1329,CUST197,2026-07-14,Smartphone,Electronics,1,19317.1,Jaipur,Cash on Delivery,Delivered
+ORD1330,CUST266,2026-08-11,Laptop,Electronics,2,39366.26,Delhi,Net Banking,Delivered
+ORD1331,CUST222,2026-10-18,Water Bottle,Home & Kitchen,1,413.52,Gwalior,UPI,Delivered
+ORD1332,CUST105,2026-06-11,Desk,Furniture,1,8134.26,Jabalpur,Net Banking,Shipped
+ORD1333,CUST162,2026-10-16,T-Shirt,Fashion,1,751.83,Lucknow,Cash on Delivery,Returned
+ORD1334,CUST303,2026-03-13,Shoes,Fashion,4,3445.38,Indore,Net Banking,Processing
+ORD1335,CUST188,2026-02-08,Laptop,Electronics,1,44150.69,Lucknow,Net Banking,Returned
+ORD1336,CUST301,2026-05-20,T-Shirt,Fashion,3,687.11,Pune,Cash on Delivery,Shipped
+ORD1337,CUST270,2026-10-27,Shoes,Fashion,4,3134.57,Mumbai,UPI,Returned
+ORD1338,CUST169,2026-02-12,Desk,Furniture,2,9575.39,Sagar,Cash on Delivery,Shipped
+ORD1339,CUST102,2026-02-16,T-Shirt,Fashion,3,766.57,Gwalior,Cash on Delivery,Processing
+ORD1340,CUST211,2026-04-06,Desk,Furniture,1,8007.77,Pune,Net Banking,Returned
+ORD1341,CUST191,2026-02-15,Water Bottle,Home & Kitchen,4,396.44,Jaipur,UPI,Returned
+ORD1342,CUST175,2026-01-07,Backpack,Accessories,3,1552.76,Mumbai,Cash on Delivery,Delivered
+ORD1343,CUST276,2026-03-28,Water Bottle,Home & Kitchen,2,459.71,Mumbai,Credit Card,Shipped
+ORD1344,CUST117,2026-03-16,Desk,Furniture,3,8374.7,Sagar,Cash on Delivery,Processing
+ORD1345,CUST193,2026-02-09,T-Shirt,Fashion,3,796.22,Gwalior,Credit Card,Cancelled
+ORD1346,CUST178,2026-03-11,Backpack,Accessories,2,1382.3,Bhopal,Cash on Delivery,Processing
+ORD1347,CUST213,2026-06-18,Backpack,Accessories,4,1527.71,Delhi,Cash on Delivery,Returned
+ORD1348,CUST223,2026-04-13,Headphones,Electronics,3,2365.5,Delhi,Credit Card,Cancelled
+ORD1349,CUST348,2026-09-09,Shoes,Fashion,3,3425.48,Lucknow,Credit Card,Processing
+ORD1350,CUST194,2026-07-21,T-Shirt,Fashion,3,875.96,Indore,Net Banking,Shipped
+ORD1351,CUST107,2026-10-09,Backpack,Accessories,2,1476.32,Pune,Credit Card,Cancelled
+ORD1352,CUST273,2026-07-29,Desk,Furniture,1,9861.21,Pune,Credit Card,Processing
+ORD1353,CUST303,2026-08-05,Office Chair,Furniture,3,6809.39,Mumbai,UPI,Cancelled
+ORD1354,CUST230,2026-10-01,Backpack,Accessories,4,1434.54,Mumbai,Net Banking,Delivered
+ORD1355,CUST269,2026-05-08,Shoes,Fashion,1,2824.99,Delhi,Credit Card,Returned
+ORD1356,CUST348,2026-06-19,Laptop,Electronics,4,51301.95,Mumbai,UPI,Delivered
+ORD1357,CUST243,2026-09-23,Smartphone,Electronics,3,20165.21,Lucknow,Net Banking,Shipped
+ORD1358,CUST277,2026-10-29,Mixer Grinder,Home Appliances,3,2708.55,Jaipur,Credit Card,Processing
+ORD1359,CUST336,2026-08-01,Laptop,Electronics,4,39661.42,Indore,UPI,Shipped
+ORD1360,CUST234,2026-04-16,Shoes,Fashion,3,3049.34,Pune,Debit Card,Cancelled
+ORD1361,CUST182,2026-08-20,Smartphone,Electronics,4,23465.16,Indore,Debit Card,Delivered
+ORD1362,CUST274,2026-02-25,Smartphone,Electronics,1,24304.59,Sagar,Credit Card,Returned
+ORD1363,CUST346,2026-08-07,Headphones,Electronics,2,2373.24,Pune,Credit Card,Cancelled
+ORD1364,CUST202,2026-08-10,Headphones,Electronics,2,2605.36,Bhopal,Net Banking,Shipped
+ORD1365,CUST153,2026-04-20,Mixer Grinder,Home Appliances,4,2706.62,Gwalior,UPI,Returned
+ORD1366,CUST218,2026-04-11,Smartphone,Electronics,2,21114.23,Indore,Debit Card,Cancelled
+ORD1367,CUST201,2026-11-09,Water Bottle,Home & Kitchen,3,463.09,Lucknow,UPI,Processing
+ORD1368,CUST336,2026-06-02,Shoes,Fashion,4,3312.67,Lucknow,Net Banking,Delivered
+ORD1369,CUST130,2026-06-06,Headphones,Electronics,3,2213.4,Sagar,Debit Card,Shipped
+ORD1370,CUST248,2026-03-12,Water Bottle,Home & Kitchen,4,438.96,Mumbai,Cash on Delivery,Shipped
+ORD1371,CUST174,2026-09-08,Mixer Grinder,Home Appliances,2,2846.13,Sagar,Credit Card,Processing
+ORD1372,CUST225,2026-01-05,Mixer Grinder,Home Appliances,1,3107.04,Sagar,Credit Card,Cancelled
+ORD1373,CUST207,2026-09-09,Water Bottle,Home & Kitchen,4,437.73,Pune,Cash on Delivery,Shipped
+ORD1374,CUST175,2026-04-23,Smartphone,Electronics,1,23952.81,Bhopal,Debit Card,Shipped
+ORD1375,CUST245,2026-08-23,Water Bottle,Home & Kitchen,3,405.21,Pune,Net Banking,Returned
+ORD1376,CUST311,2026-10-06,Smartphone,Electronics,1,20468.07,Delhi,Net Banking,Delivered
+ORD1377,CUST289,2026-02-22,Mixer Grinder,Home Appliances,2,3211.41,Jabalpur,Debit Card,Delivered
+ORD1378,CUST213,2026-02-14,Mixer Grinder,Home Appliances,3,2672.8,Indore,Credit Card,Shipped
+ORD1379,CUST262,2026-11-09,Backpack,Accessories,3,1551.64,Mumbai,Credit Card,Returned
+ORD1380,CUST246,2026-01-31,Headphones,Electronics,2,2735.15,Delhi,Net Banking,Processing
+ORD1381,CUST175,2026-05-30,Backpack,Accessories,2,1325.93,Lucknow,Debit Card,Returned
+ORD1382,CUST336,2026-07-30,Smartphone,Electronics,2,25054.3,Bhopal,Debit Card,Shipped
+ORD1383,CUST313,2026-06-14,Headphones,Electronics,2,2234.68,Jabalpur,Cash on Delivery,Cancelled
+ORD1384,CUST216,2026-07-12,Headphones,Electronics,3,2595.86,Indore,UPI,Cancelled
+ORD1385,CUST217,2026-07-08,Water Bottle,Home & Kitchen,3,476.28,Pune,Debit Card,Returned
+ORD1386,CUST263,2026-08-23,Laptop,Electronics,1,48117.58,Delhi,UPI,Returned
+ORD1387,CUST227,2026-04-19,T-Shirt,Fashion,2,912.35,Gwalior,Debit Card,Processing
+ORD1388,CUST302,2026-09-06,Shoes,Fashion,2,3263.5,Delhi,UPI,Delivered
+ORD1389,CUST213,2026-03-22,Smartphone,Electronics,4,18807.46,Pune,UPI,Cancelled
+ORD1390,CUST141,2026-06-04,Office Chair,Furniture,2,7245.19,Gwalior,UPI,Processing
+ORD1391,CUST114,2026-03-26,Desk,Furniture,1,8653.98,Mumbai,Debit Card,Shipped
+ORD1392,CUST155,2026-01-01,T-Shirt,Fashion,1,848.89,Pune,UPI,Shipped
+ORD1393,CUST103,2026-08-16,Backpack,Accessories,2,1408.17,Bhopal,Debit Card,Delivered
+ORD1394,CUST199,2026-04-28,T-Shirt,Fashion,2,794.65,Indore,UPI,Delivered
+ORD1395,CUST198,2026-03-12,Shoes,Fashion,3,3565.75,Sagar,Credit Card,Delivered
+ORD1396,CUST213,2026-03-26,Water Bottle,Home & Kitchen,1,464.89,Delhi,Credit Card,Shipped
+ORD1397,CUST330,2026-02-14,T-Shirt,Fashion,4,886.39,Indore,Credit Card,Delivered
+ORD1398,CUST181,2026-08-08,Backpack,Accessories,4,1337.64,Sagar,Credit Card,Processing
+ORD1399,CUST285,2026-11-04,Smartphone,Electronics,2,22352.42,Lucknow,Debit Card,Delivered
+ORD1400,CUST149,2026-09-18,Desk,Furniture,2,9047.92,Mumbai,Debit Card,Delivered
+ORD1401,CUST228,2026-05-04,Office Chair,Furniture,4,6277.48,Lucknow,UPI,Returned
+ORD1402,CUST200,2026-03-09,Laptop,Electronics,3,50857.98,Lucknow,Cash on Delivery,Processing
+ORD1403,CUST105,2026-02-07,Water Bottle,Home & Kitchen,2,485.47,Lucknow,UPI,Delivered
+ORD1404,CUST343,2026-01-31,Desk,Furniture,2,7757.53,Mumbai,Net Banking,Processing
+ORD1405,CUST122,2026-07-25,Water Bottle,Home & Kitchen,4,439.68,Jaipur,Net Banking,Returned
+ORD1406,CUST231,2026-02-10,Headphones,Electronics,3,2187.7,Jabalpur,Credit Card,Returned
+ORD1407,CUST180,2026-02-03,Shoes,Fashion,4,3282.98,Mumbai,Credit Card,Delivered
+ORD1408,CUST217,2026-03-01,Office Chair,Furniture,1,7328.02,Lucknow,Net Banking,Delivered
+ORD1409,CUST280,2026-03-12,Desk,Furniture,2,7972.5,Bhopal,Credit Card,Cancelled
+ORD1410,CUST292,2026-03-06,Shoes,Fashion,3,2880.28,Gwalior,UPI,Delivered
+ORD1411,CUST168,2026-02-02,Shoes,Fashion,4,2981.1,Lucknow,UPI,Cancelled
+ORD1412,CUST143,2026-10-18,Mixer Grinder,Home Appliances,3,2426.57,Delhi,Credit Card,Processing
+ORD1413,CUST101,2026-09-18,Smartphone,Electronics,1,20207.47,Bhopal,UPI,Shipped
+ORD1414,CUST146,2026-03-18,Laptop,Electronics,4,43163.68,Bhopal,Net Banking,Cancelled
+ORD1415,CUST170,2026-06-13,Office Chair,Furniture,3,6009.11,Indore,Net Banking,Processing
+ORD1416,CUST112,2026-09-22,Smartphone,Electronics,1,19883.67,Mumbai,UPI,Cancelled
+ORD1417,CUST217,2026-10-11,Desk,Furniture,3,8533.71,Bhopal,Debit Card,Shipped
+ORD1418,CUST219,2026-05-05,Desk,Furniture,3,9646.86,Delhi,Net Banking,Cancelled
+ORD1419,CUST107,2026-07-29,Office Chair,Furniture,2,5818.6,Jabalpur,Net Banking,Processing
+ORD1420,CUST318,2026-07-12,Laptop,Electronics,3,38269.74,Gwalior,UPI,Shipped
+ORD1421,CUST349,2026-01-31,Water Bottle,Home & Kitchen,2,439.18,Sagar,Debit Card,Delivered
+ORD1422,CUST206,2026-09-24,Laptop,Electronics,2,50363.38,Delhi,Cash on Delivery,Delivered
+ORD1423,CUST120,2026-07-21,Backpack,Accessories,1,1402.28,Lucknow,Net Banking,Delivered
+ORD1424,CUST318,2026-05-14,T-Shirt,Fashion,2,736.83,Delhi,Cash on Delivery,Processing
+ORD1425,CUST342,2026-02-08,Shoes,Fashion,4,2981.08,Jabalpur,Credit Card,Returned
+ORD1426,CUST220,2026-08-19,Smartphone,Electronics,2,19397.34,Delhi,Cash on Delivery,Delivered
+ORD1427,CUST216,2026-04-17,Water Bottle,Home & Kitchen,3,512.73,Gwalior,Cash on Delivery,Processing
+ORD1428,CUST312,2026-06-05,Smartphone,Electronics,1,19740.26,Lucknow,UPI,Shipped
+ORD1429,CUST348,2026-05-08,Shoes,Fashion,2,2807.56,Delhi,Cash on Delivery,Returned
+ORD1430,CUST108,2026-03-31,Laptop,Electronics,3,41762.25,Mumbai,Cash on Delivery,Returned
+ORD1431,CUST306,2026-02-22,Water Bottle,Home & Kitchen,2,395.29,Sagar,UPI,Delivered
+ORD1432,CUST196,2026-07-25,Laptop,Electronics,2,40014.66,Indore,Net Banking,Returned
+ORD1433,CUST151,2026-02-03,Desk,Furniture,1,7708.86,Pune,Credit Card,Delivered
+ORD1434,CUST113,2026-08-25,Shoes,Fashion,1,2760.99,Sagar,Net Banking,Cancelled
+ORD1435,CUST145,2026-08-07,T-Shirt,Fashion,4,687.08,Delhi,Credit Card,Shipped
+ORD1436,CUST109,2026-03-18,Desk,Furniture,3,8854.23,Lucknow,Net Banking,Returned
+ORD1437,CUST223,2026-10-09,Office Chair,Furniture,3,6497.84,Bhopal,UPI,Processing
+ORD1438,CUST164,2026-09-27,T-Shirt,Fashion,2,780.62,Jaipur,UPI,Cancelled
+ORD1439,CUST189,2026-09-06,Shoes,Fashion,4,3242.74,Lucknow,Net Banking,Processing
+ORD1440,CUST253,2026-06-13,T-Shirt,Fashion,3,723.16,Jabalpur,UPI,Processing
+ORD1441,CUST160,2026-10-27,Laptop,Electronics,4,45397.34,Sagar,UPI,Shipped
+ORD1442,CUST296,2026-01-29,Office Chair,Furniture,3,6565.69,Jabalpur,Net Banking,Cancelled
+ORD1443,CUST182,2026-10-31,Shoes,Fashion,2,2889.06,Delhi,Net Banking,Delivered
+ORD1444,CUST315,2026-04-07,Shoes,Fashion,2,3260.58,Pune,Net Banking,Processing
+ORD1445,CUST160,2026-01-29,Headphones,Electronics,4,2153.47,Lucknow,Credit Card,Delivered
+ORD1446,CUST152,2026-11-11,Water Bottle,Home & Kitchen,4,382.59,Sagar,Debit Card,Shipped
+ORD1447,CUST281,2026-10-28,Shoes,Fashion,1,2741.04,Sagar,UPI,Returned
+ORD1448,CUST251,2026-07-22,Shoes,Fashion,1,3078.65,Indore,Debit Card,Processing
+ORD1449,CUST303,2026-08-12,Shoes,Fashion,2,3656.83,Pune,Debit Card,Shipped
+ORD1450,CUST309,2026-10-29,Water Bottle,Home & Kitchen,3,412.64,Sagar,Cash on Delivery,Processing
+ORD1451,CUST343,2026-01-01,Desk,Furniture,2,8129.81,Lucknow,Cash on Delivery,Returned
+ORD1452,CUST157,2026-11-10,Laptop,Electronics,2,46382.25,Lucknow,UPI,Cancelled
+ORD1453,CUST189,2026-05-02,Headphones,Electronics,3,2684.01,Delhi,Credit Card,Delivered
+ORD1454,CUST164,2026-04-18,Shoes,Fashion,4,2730.94,Indore,Debit Card,Processing
+ORD1455,CUST288,2026-08-13,Smartphone,Electronics,1,19017.77,Mumbai,Credit Card,Cancelled
+ORD1456,CUST126,2026-07-12,Mixer Grinder,Home Appliances,4,2675.03,Pune,Net Banking,Shipped
+ORD1457,CUST176,2026-01-18,Headphones,Electronics,4,2180.28,Bhopal,Debit Card,Processing
+ORD1458,CUST142,2026-07-12,Smartphone,Electronics,1,20955.93,Indore,Net Banking,Delivered
+ORD1459,CUST342,2026-08-09,Shoes,Fashion,4,3396.32,Sagar,Net Banking,Cancelled
+ORD1460,CUST350,2026-04-16,Headphones,Electronics,1,2200.94,Jabalpur,Cash on Delivery,Returned
+ORD1461,CUST161,2026-06-02,Water Bottle,Home & Kitchen,3,471.68,Indore,UPI,Cancelled
+ORD1462,CUST101,2026-07-04,Backpack,Accessories,4,1254.51,Mumbai,UPI,Processing
+ORD1463,CUST153,2026-01-14,Backpack,Accessories,4,1273.86,Sagar,Debit Card,Delivered
+ORD1464,CUST221,2026-07-23,Mixer Grinder,Home Appliances,1,2639.02,Pune,Debit Card,Delivered
+ORD1465,CUST195,2026-07-15,Water Bottle,Home & Kitchen,4,407.46,Sagar,Cash on Delivery,Delivered
+ORD1466,CUST315,2026-04-26,Desk,Furniture,4,8905.66,Gwalior,Net Banking,Delivered
+ORD1467,CUST307,2026-06-26,Headphones,Electronics,1,2189.28,Jaipur,Cash on Delivery,Returned
+ORD1468,CUST208,2026-09-25,Office Chair,Furniture,1,7164.55,Jaipur,Cash on Delivery,Returned
+ORD1469,CUST332,2026-07-22,Office Chair,Furniture,4,6107.76,Bhopal,Net Banking,Returned
+ORD1470,CUST145,2026-08-18,Water Bottle,Home & Kitchen,2,398.74,Sagar,Credit Card,Shipped
+ORD1471,CUST152,2026-08-11,Headphones,Electronics,1,2442.53,Sagar,Net Banking,Processing
+ORD1472,CUST202,2026-10-12,Shoes,Fashion,1,2803.55,Jaipur,Debit Card,Processing
+ORD1473,CUST302,2026-01-07,Water Bottle,Home & Kitchen,4,506.32,Lucknow,Net Banking,Returned
+ORD1474,CUST246,2026-03-17,T-Shirt,Fashion,1,779.47,Lucknow,Net Banking,Delivered
+ORD1475,CUST326,2026-10-02,Smartphone,Electronics,1,23885.92,Delhi,Cash on Delivery,Processing
+ORD1476,CUST110,2026-08-31,T-Shirt,Fashion,4,817.29,Sagar,Debit Card,Cancelled
+ORD1477,CUST277,2026-06-19,Headphones,Electronics,4,2154.09,Jabalpur,UPI,Cancelled
+ORD1478,CUST180,2026-06-05,Desk,Furniture,3,7704.63,Gwalior,Cash on Delivery,Delivered
+ORD1479,CUST299,2026-08-15,Office Chair,Furniture,2,6110.94,Delhi,Debit Card,Cancelled
+ORD1480,CUST334,2026-04-19,Backpack,Accessories,1,1268.93,Mumbai,Cash on Delivery,Returned
+ORD1481,CUST117,2026-03-23,Shoes,Fashion,1,3214.66,Gwalior,Net Banking,Cancelled
+ORD1482,CUST315,2026-04-13,Headphones,Electronics,1,2255.3,Bhopal,Credit Card,Delivered
+ORD1483,CUST171,2026-04-12,Mixer Grinder,Home Appliances,1,3151.15,Delhi,Cash on Delivery,Returned
+ORD1484,CUST196,2026-05-04,T-Shirt,Fashion,1,843.48,Pune,Net Banking,Cancelled
+ORD1485,CUST189,2026-06-29,Headphones,Electronics,4,2565.16,Sagar,Debit Card,Delivered
+ORD1486,CUST319,2026-03-25,Desk,Furniture,1,8693.73,Lucknow,Credit Card,Shipped
+ORD1487,CUST232,2026-07-29,Office Chair,Furniture,2,6049.71,Bhopal,UPI,Cancelled
+ORD1488,CUST158,2026-01-05,Headphones,Electronics,2,2575.86,Gwalior,Net Banking,Processing
+ORD1489,CUST218,2026-06-28,Desk,Furniture,4,10067.8,Gwalior,Credit Card,Cancelled
+ORD1490,CUST231,2026-01-04,Desk,Furniture,4,9228.12,Delhi,Net Banking,Returned
+ORD1491,CUST224,2026-02-25,Backpack,Accessories,3,1315.36,Indore,Debit Card,Processing
+ORD1492,CUST149,2026-06-02,Shoes,Fashion,3,2970.7,Sagar,Net Banking,Shipped
+ORD1493,CUST285,2026-03-13,Laptop,Electronics,4,47167.16,Bhopal,Cash on Delivery,Processing
+ORD1494,CUST250,2026-01-19,Desk,Furniture,4,8742.42,Lucknow,Credit Card,Processing
+ORD1495,CUST230,2026-07-03,Office Chair,Furniture,4,7292.73,Gwalior,Credit Card,Returned
+ORD1496,CUST290,2026-03-07,Headphones,Electronics,3,2198.2,Gwalior,Net Banking,Shipped
+ORD1497,CUST291,2026-04-25,Shoes,Fashion,1,2933.36,Gwalior,Cash on Delivery,Processing
+ORD1498,CUST318,2026-08-26,Shoes,Fashion,3,3282.15,Indore,Cash on Delivery,Delivered
+ORD1499,CUST229,2026-04-10,Backpack,Accessories,1,1388.33,Indore,Cash on Delivery,Returned
+ORD1500,CUST136,2026-03-19,Desk,Furniture,4,7795.97,Jabalpur,Debit Card,Cancelled
+ORD1501,CUST300,2026-04-03,Backpack,Accessories,4,1250.15,Indore,Cash on Delivery,Processing
+ORD1502,CUST216,2026-01-03,Headphones,Electronics,3,2600.87,Gwalior,Credit Card,Shipped
+ORD1503,CUST134,2026-02-15,Backpack,Accessories,2,1395.62,Lucknow,Cash on Delivery,Cancelled
+ORD1504,CUST102,2026-07-16,T-Shirt,Fashion,4,911.68,Bhopal,Net Banking,Shipped
+ORD1505,CUST149,2026-09-29,Shoes,Fashion,1,3576.33,Bhopal,UPI,Shipped
+ORD1506,CUST199,2026-02-22,Office Chair,Furniture,3,6133.58,Jaipur,Net Banking,Processing
+ORD1507,CUST343,2026-06-02,Headphones,Electronics,1,2742.88,Gwalior,Cash on Delivery,Returned
+ORD1508,CUST188,2026-03-10,Backpack,Accessories,3,1372.14,Pune,Debit Card,Shipped
+ORD1509,CUST287,2026-04-25,Headphones,Electronics,4,2139.34,Sagar,Credit Card,Delivered
+ORD1510,CUST197,2026-01-20,Backpack,Accessories,2,1241.73,Gwalior,Net Banking,Returned
+ORD1511,CUST113,2026-01-11,Laptop,Electronics,1,47186.59,Indore,Cash on Delivery,Cancelled
+ORD1512,CUST280,2026-08-31,T-Shirt,Fashion,1,811.35,Sagar,Credit Card,Delivered
+ORD1513,CUST170,2026-09-24,Desk,Furniture,4,9436.49,Lucknow,Net Banking,Shipped
+ORD1514,CUST131,2026-11-13,T-Shirt,Fashion,1,802.78,Gwalior,UPI,Delivered
+ORD1515,CUST313,2026-05-15,Mixer Grinder,Home Appliances,2,2891.56,Jaipur,Credit Card,Processing
+ORD1516,CUST228,2026-10-08,T-Shirt,Fashion,3,718.49,Jabalpur,Cash on Delivery,Processing
+ORD1517,CUST333,2026-02-15,Office Chair,Furniture,1,5549.86,Indore,Net Banking,Cancelled
+ORD1518,CUST286,2026-02-08,Headphones,Electronics,1,2709.64,Indore,Debit Card,Shipped
+ORD1519,CUST126,2026-01-26,Mixer Grinder,Home Appliances,3,2601.87,Sagar,UPI,Processing
+ORD1520,CUST125,2026-03-01,Shoes,Fashion,3,3128.96,Bhopal,UPI,Shipped
+ORD1521,CUST345,2026-08-13,Headphones,Electronics,3,2393.15,Lucknow,Debit Card,Delivered
+ORD1522,CUST203,2026-07-25,Shoes,Fashion,3,2895.55,Pune,Debit Card,Cancelled
+ORD1523,CUST129,2026-03-27,Mixer Grinder,Home Appliances,4,2925.03,Sagar,UPI,Shipped
+ORD1524,CUST306,2026-09-05,Smartphone,Electronics,4,24714.1,Lucknow,Cash on Delivery,Shipped
+ORD1525,CUST108,2026-11-10,Backpack,Accessories,4,1517.25,Sagar,Cash on Delivery,Cancelled
+ORD1526,CUST167,2026-02-02,Smartphone,Electronics,4,21608.54,Delhi,UPI,Returned
+ORD1527,CUST233,2026-06-23,Backpack,Accessories,2,1600.72,Jaipur,Net Banking,Delivered
+ORD1528,CUST139,2026-07-17,T-Shirt,Fashion,2,795.66,Jaipur,Net Banking,Delivered
+ORD1529,CUST319,2026-08-29,Laptop,Electronics,2,45075.16,Pune,Credit Card,Delivered
+ORD1530,CUST113,2026-05-23,Mixer Grinder,Home Appliances,3,2582.35,Jaipur,Credit Card,Returned
+ORD1531,CUST218,2026-02-10,T-Shirt,Fashion,4,876.1,Pune,Net Banking,Cancelled
+ORD1532,CUST228,2026-03-02,Smartphone,Electronics,4,21650.65,Bhopal,UPI,Cancelled
+ORD1533,CUST312,2026-01-01,T-Shirt,Fashion,1,813.71,Indore,Net Banking,Returned
+ORD1534,CUST344,2026-08-22,Desk,Furniture,2,9417.41,Delhi,Debit Card,Delivered
+ORD1535,CUST254,2026-11-14,Office Chair,Furniture,4,6172.35,Pune,Debit Card,Cancelled
+ORD1536,CUST101,2026-04-24,Smartphone,Electronics,1,23711.51,Delhi,Debit Card,Processing
+ORD1537,CUST330,2026-01-24,Water Bottle,Home & Kitchen,3,477.28,Sagar,Cash on Delivery,Shipped
+ORD1538,CUST149,2026-04-11,T-Shirt,Fashion,1,741.03,Indore,Cash on Delivery,Shipped
+ORD1539,CUST294,2026-02-25,Mixer Grinder,Home Appliances,2,2982.1,Mumbai,UPI,Returned
+ORD1540,CUST345,2026-10-29,Smartphone,Electronics,4,21718.76,Jaipur,Credit Card,Cancelled
+ORD1541,CUST315,2026-08-10,Laptop,Electronics,1,45718.56,Lucknow,Cash on Delivery,Returned
+ORD1542,CUST127,2026-03-07,Headphones,Electronics,2,2672.87,Mumbai,Net Banking,Returned
+ORD1543,CUST335,2026-11-08,Shoes,Fashion,4,3121.92,Jabalpur,Debit Card,Cancelled
+ORD1544,CUST136,2026-03-10,Shoes,Fashion,3,3154.73,Mumbai,Net Banking,Returned
+ORD1545,CUST262,2026-10-11,Desk,Furniture,3,9572.06,Jabalpur,Credit Card,Shipped
+ORD1546,CUST282,2026-03-09,Backpack,Accessories,3,1478.38,Sagar,Net Banking,Returned
+ORD1547,CUST223,2026-10-15,Shoes,Fashion,1,3450.34,Lucknow,Net Banking,Cancelled
+ORD1548,CUST307,2026-08-05,Water Bottle,Home & Kitchen,3,500.96,Bhopal,Net Banking,Delivered
+ORD1549,CUST152,2026-01-29,Laptop,Electronics,4,40211.91,Gwalior,Credit Card,Processing
+ORD1550,CUST153,2026-06-01,Desk,Furniture,2,9916.33,Jaipur,UPI,Processing
+ORD1551,CUST322,2026-10-15,Mixer Grinder,Home Appliances,1,2897.53,Jabalpur,Net Banking,Cancelled
+ORD1552,CUST338,2026-01-25,Office Chair,Furniture,3,6876.23,Mumbai,Cash on Delivery,Cancelled
+ORD1553,CUST152,2026-05-09,Shoes,Fashion,1,2732.45,Lucknow,Cash on Delivery,Shipped
+ORD1554,CUST176,2026-04-10,Shoes,Fashion,2,3465.1,Pune,Credit Card,Delivered
+ORD1555,CUST197,2026-03-03,Headphones,Electronics,2,2676.31,Bhopal,Cash on Delivery,Processing
+ORD1556,CUST317,2026-10-27,Water Bottle,Home & Kitchen,3,400.06,Gwalior,UPI,Processing
+ORD1557,CUST253,2026-06-15,Mixer Grinder,Home Appliances,2,2413.55,Bhopal,Net Banking,Processing
+ORD1558,CUST235,2026-06-12,Mixer Grinder,Home Appliances,3,2441.22,Jabalpur,Credit Card,Returned
+ORD1559,CUST204,2026-10-02,Smartphone,Electronics,2,21445.15,Indore,Debit Card,Shipped
+ORD1560,CUST156,2026-05-31,Office Chair,Furniture,3,6170.58,Lucknow,Net Banking,Cancelled
+ORD1561,CUST215,2026-06-27,Water Bottle,Home & Kitchen,1,397.99,Jabalpur,Net Banking,Returned
+ORD1562,CUST198,2026-06-14,Office Chair,Furniture,1,6855.98,Indore,Cash on Delivery,Processing
+ORD1563,CUST311,2026-09-22,Water Bottle,Home & Kitchen,3,385.84,Delhi,Net Banking,Returned
+ORD1564,CUST183,2026-04-09,Mixer Grinder,Home Appliances,4,2416.84,Jaipur,UPI,Delivered
+ORD1565,CUST272,2026-04-18,Headphones,Electronics,1,2595.2,Jabalpur,Cash on Delivery,Delivered
+ORD1566,CUST292,2026-02-06,Office Chair,Furniture,4,6785.79,Sagar,UPI,Cancelled
+ORD1567,CUST146,2026-01-28,Shoes,Fashion,1,2804.02,Gwalior,Net Banking,Delivered
+ORD1568,CUST200,2026-07-28,Backpack,Accessories,2,1572.61,Pune,Cash on Delivery,Cancelled
+ORD1569,CUST237,2026-03-02,Shoes,Fashion,1,3093.92,Bhopal,Net Banking,Delivered
+ORD1570,CUST192,2026-02-07,Backpack,Accessories,1,1484.37,Jaipur,UPI,Processing
+ORD1571,CUST198,2026-08-13,Desk,Furniture,1,8410.1,Mumbai,UPI,Cancelled
+ORD1572,CUST304,2026-07-20,Headphones,Electronics,2,2227.29,Jaipur,Debit Card,Shipped
+ORD1573,CUST242,2026-01-06,Desk,Furniture,3,10234.96,Jaipur,Credit Card,Delivered
+ORD1574,CUST238,2026-07-21,Laptop,Electronics,1,45981.7,Jaipur,UPI,Processing
+ORD1575,CUST137,2026-09-20,Office Chair,Furniture,3,5937.89,Sagar,Credit Card,Shipped
+ORD1576,CUST272,2026-04-03,Backpack,Accessories,3,1271.62,Lucknow,UPI,Returned
+ORD1577,CUST165,2026-02-04,Mixer Grinder,Home Appliances,1,2624.15,Indore,Credit Card,Returned
+ORD1578,CUST126,2026-05-01,Mixer Grinder,Home Appliances,3,2680.0,Gwalior,Net Banking,Delivered
+ORD1579,CUST258,2026-06-18,Office Chair,Furniture,3,6472.43,Gwalior,Net Banking,Shipped
+ORD1580,CUST144,2026-08-08,Backpack,Accessories,3,1529.23,Bhopal,Debit Card,Shipped
+ORD1581,CUST135,2026-07-04,Office Chair,Furniture,4,6064.53,Delhi,Cash on Delivery,Cancelled
+ORD1582,CUST242,2026-09-07,Mixer Grinder,Home Appliances,3,3030.8,Indore,Credit Card,Returned
+ORD1583,CUST329,2026-03-13,Smartphone,Electronics,3,24367.51,Jaipur,Credit Card,Processing
+ORD1584,CUST262,2026-09-17,Smartphone,Electronics,1,24587.89,Bhopal,Net Banking,Returned
+ORD1585,CUST167,2026-10-10,T-Shirt,Fashion,2,897.51,Jaipur,Net Banking,Cancelled
+ORD1586,CUST288,2026-10-29,Headphones,Electronics,3,2419.37,Gwalior,Credit Card,Cancelled
+ORD1587,CUST103,2026-09-15,Water Bottle,Home & Kitchen,1,436.07,Jabalpur,Net Banking,Shipped
+ORD1588,CUST245,2026-04-02,Water Bottle,Home & Kitchen,2,442.74,Lucknow,Credit Card,Cancelled
+ORD1589,CUST160,2026-09-07,Shoes,Fashion,1,2930.07,Indore,Debit Card,Processing
+ORD1590,CUST333,2026-09-23,Office Chair,Furniture,1,6828.74,Delhi,Cash on Delivery,Cancelled
+ORD1591,CUST127,2026-06-15,Mixer Grinder,Home Appliances,1,2413.52,Jaipur,Debit Card,Processing
+ORD1592,CUST194,2026-07-13,Backpack,Accessories,2,1348.2,Lucknow,UPI,Returned
+ORD1593,CUST233,2026-04-25,Desk,Furniture,4,10276.22,Mumbai,Debit Card,Processing
+ORD1594,CUST229,2026-01-04,Mixer Grinder,Home Appliances,4,3125.22,Sagar,Cash on Delivery,Shipped
+ORD1595,CUST155,2026-05-24,Office Chair,Furniture,1,6528.36,Sagar,Credit Card,Shipped
+ORD1596,CUST308,2026-08-01,Shoes,Fashion,1,3354.67,Delhi,UPI,Cancelled
+ORD1597,CUST266,2026-03-24,Mixer Grinder,Home Appliances,4,2556.99,Mumbai,UPI,Shipped
+ORD1598,CUST135,2026-03-24,Laptop,Electronics,2,45992.07,Jaipur,UPI,Returned
+ORD1599,CUST233,2026-04-03,Headphones,Electronics,1,2249.76,Mumbai,Net Banking,Returned
+ORD1600,CUST215,2026-04-21,Laptop,Electronics,3,51037.93,Lucknow,Cash on Delivery,Cancelled
+ORD1601,CUST137,2026-11-04,Headphones,Electronics,2,2747.77,Lucknow,Credit Card,Returned
+ORD1602,CUST337,2026-06-25,Water Bottle,Home & Kitchen,3,405.14,Pune,Net Banking,Returned
+ORD1603,CUST128,2026-03-09,Smartphone,Electronics,2,21196.19,Bhopal,Credit Card,Returned
+ORD1604,CUST125,2026-11-07,Water Bottle,Home & Kitchen,4,494.08,Sagar,Cash on Delivery,Returned
+ORD1605,CUST229,2026-09-30,Backpack,Accessories,1,1558.66,Indore,UPI,Cancelled
+ORD1606,CUST234,2026-08-09,Headphones,Electronics,1,2797.73,Mumbai,Debit Card,Delivered
+ORD1607,CUST303,2026-09-04,Water Bottle,Home & Kitchen,4,413.48,Mumbai,Debit Card,Returned
+ORD1608,CUST223,2026-05-11,Backpack,Accessories,1,1368.71,Jabalpur,UPI,Processing
+ORD1609,CUST282,2026-01-03,Backpack,Accessories,4,1298.28,Bhopal,Net Banking,Returned
+ORD1610,CUST277,2026-04-16,Smartphone,Electronics,1,21175.2,Delhi,Cash on Delivery,Processing
+ORD1611,CUST165,2026-10-27,Smartphone,Electronics,2,21512.07,Gwalior,Net Banking,Cancelled
+ORD1612,CUST294,2026-07-23,Backpack,Accessories,3,1446.99,Jabalpur,Cash on Delivery,Returned
+ORD1613,CUST243,2026-10-14,Water Bottle,Home & Kitchen,4,406.63,Pune,Debit Card,Processing
+ORD1614,CUST289,2026-07-23,Backpack,Accessories,3,1515.16,Sagar,UPI,Shipped
+ORD1615,CUST203,2026-09-18,Mixer Grinder,Home Appliances,2,2464.23,Delhi,Net Banking,Returned
+ORD1616,CUST306,2026-01-03,Laptop,Electronics,2,43502.9,Indore,Credit Card,Cancelled
+ORD1617,CUST157,2026-05-15,Backpack,Accessories,4,1227.02,Delhi,UPI,Returned
+ORD1618,CUST258,2026-07-25,Laptop,Electronics,4,50814.25,Jaipur,Debit Card,Returned
+ORD1619,CUST103,2026-08-13,Laptop,Electronics,2,46893.93,Jabalpur,Net Banking,Processing
+ORD1620,CUST233,2026-09-19,Office Chair,Furniture,1,7053.72,Jabalpur,Net Banking,Shipped
+ORD1621,CUST350,2026-01-01,Laptop,Electronics,3,41479.96,Sagar,UPI,Processing
+ORD1622,CUST251,2026-07-27,T-Shirt,Fashion,3,840.72,Jabalpur,Net Banking,Delivered
+ORD1623,CUST335,2026-10-14,Smartphone,Electronics,1,22327.31,Lucknow,Debit Card,Processing
+ORD1624,CUST217,2026-04-10,Desk,Furniture,2,9287.18,Mumbai,Net Banking,Delivered
+ORD1625,CUST244,2026-02-24,Desk,Furniture,2,8749.26,Indore,Net Banking,Processing
+ORD1626,CUST325,2026-05-12,Shoes,Fashion,1,3490.82,Jaipur,Net Banking,Processing
+ORD1627,CUST294,2026-05-05,Mixer Grinder,Home Appliances,4,2853.06,Delhi,Cash on Delivery,Cancelled
+ORD1628,CUST118,2026-05-13,Backpack,Accessories,1,1392.43,Mumbai,Credit Card,Shipped
+ORD1629,CUST238,2026-09-22,Shoes,Fashion,4,3637.23,Bhopal,Debit Card,Shipped
+ORD1630,CUST120,2026-06-25,Desk,Furniture,1,8727.11,Jaipur,Credit Card,Cancelled
+ORD1631,CUST169,2026-10-21,Shoes,Fashion,3,2929.82,Sagar,Credit Card,Cancelled
+ORD1632,CUST153,2026-05-16,Office Chair,Furniture,2,6959.09,Jabalpur,Credit Card,Shipped
+ORD1633,CUST131,2026-02-24,Backpack,Accessories,3,1255.52,Indore,Cash on Delivery,Returned
+ORD1634,CUST259,2026-07-10,Laptop,Electronics,1,49698.14,Delhi,Cash on Delivery,Returned
+ORD1635,CUST172,2026-09-19,Desk,Furniture,4,8143.75,Mumbai,Credit Card,Returned
+ORD1636,CUST223,2026-08-05,Headphones,Electronics,1,2519.3,Jaipur,UPI,Returned
+ORD1637,CUST218,2026-03-31,Shoes,Fashion,4,3545.98,Indore,Net Banking,Cancelled
+ORD1638,CUST198,2026-04-18,Shoes,Fashion,1,2731.35,Lucknow,UPI,Processing
+ORD1639,CUST161,2026-05-15,Shoes,Fashion,3,2899.67,Gwalior,Cash on Delivery,Returned
+ORD1640,CUST154,2026-08-06,Shoes,Fashion,3,2896.56,Mumbai,Debit Card,Processing
+ORD1641,CUST134,2026-10-20,T-Shirt,Fashion,3,788.17,Lucknow,Credit Card,Delivered
+ORD1642,CUST151,2026-07-15,Desk,Furniture,2,9149.42,Sagar,Credit Card,Cancelled
+ORD1643,CUST329,2026-03-10,Laptop,Electronics,2,43940.53,Jaipur,Net Banking,Processing
+ORD1644,CUST113,2026-10-18,Mixer Grinder,Home Appliances,3,2590.82,Mumbai,UPI,Shipped
+ORD1645,CUST315,2026-09-01,Laptop,Electronics,2,49236.54,Indore,Cash on Delivery,Processing
+ORD1646,CUST339,2026-10-13,Desk,Furniture,3,8622.83,Gwalior,Debit Card,Delivered
+ORD1647,CUST151,2026-11-07,T-Shirt,Fashion,1,764.26,Lucknow,Net Banking,Returned
+ORD1648,CUST225,2026-09-19,Headphones,Electronics,3,2391.33,Pune,UPI,Cancelled
+ORD1649,CUST323,2026-03-16,Backpack,Accessories,3,1384.78,Sagar,Debit Card,Cancelled
+ORD1650,CUST121,2026-02-06,Backpack,Accessories,4,1546.54,Sagar,Debit Card,Shipped
+ORD1651,CUST255,2026-05-17,Shoes,Fashion,3,3346.89,Mumbai,Debit Card,Cancelled
+ORD1652,CUST319,2026-04-05,Shoes,Fashion,4,3117.43,Bhopal,Credit Card,Shipped
+ORD1653,CUST127,2026-07-23,Desk,Furniture,1,8218.54,Indore,UPI,Cancelled
+ORD1654,CUST235,2026-07-23,Water Bottle,Home & Kitchen,1,386.06,Indore,UPI,Processing
+ORD1655,CUST180,2026-07-19,Backpack,Accessories,2,1225.41,Jabalpur,Credit Card,Processing
+ORD1656,CUST108,2026-03-29,Mixer Grinder,Home Appliances,2,2490.27,Bhopal,Debit Card,Processing
+ORD1657,CUST340,2026-10-04,Mixer Grinder,Home Appliances,4,3198.98,Gwalior,Net Banking,Cancelled
+ORD1658,CUST262,2026-08-22,Headphones,Electronics,2,2568.12,Lucknow,Cash on Delivery,Returned
+ORD1659,CUST239,2026-09-04,Water Bottle,Home & Kitchen,3,505.2,Jabalpur,UPI,Cancelled
+ORD1660,CUST178,2026-03-21,Desk,Furniture,3,8762.95,Bhopal,UPI,Returned
+ORD1661,CUST103,2026-10-01,Headphones,Electronics,3,2340.07,Pune,Cash on Delivery,Processing
+ORD1662,CUST160,2026-11-02,Laptop,Electronics,4,49022.52,Bhopal,Net Banking,Processing
+ORD1663,CUST202,2026-08-12,Office Chair,Furniture,4,7245.22,Jabalpur,Credit Card,Cancelled
+ORD1664,CUST261,2026-08-05,T-Shirt,Fashion,2,743.12,Jabalpur,Net Banking,Returned
+ORD1665,CUST308,2026-09-30,Desk,Furniture,3,9400.83,Gwalior,Cash on Delivery,Shipped
+ORD1666,CUST264,2026-02-26,Smartphone,Electronics,2,19601.72,Pune,Net Banking,Cancelled
+ORD1667,CUST139,2026-01-10,Desk,Furniture,4,8157.03,Bhopal,Net Banking,Delivered
+ORD1668,CUST284,2026-03-06,Headphones,Electronics,1,2336.59,Pune,UPI,Shipped
+ORD1669,CUST188,2026-04-22,Smartphone,Electronics,2,18797.18,Mumbai,Debit Card,Cancelled
+ORD1670,CUST185,2026-01-17,Shoes,Fashion,4,3389.06,Indore,Credit Card,Delivered
+ORD1671,CUST147,2026-08-29,Desk,Furniture,4,7842.74,Jabalpur,Debit Card,Cancelled
+ORD1672,CUST199,2026-05-08,Laptop,Electronics,1,51407.08,Pune,Credit Card,Delivered
+ORD1673,CUST234,2026-02-18,Office Chair,Furniture,4,6958.88,Jabalpur,Cash on Delivery,Cancelled
+ORD1674,CUST291,2026-01-22,Desk,Furniture,3,8078.25,Jaipur,Net Banking,Delivered
+ORD1675,CUST193,2026-04-12,Desk,Furniture,4,9374.0,Bhopal,Credit Card,Delivered
+ORD1676,CUST304,2026-03-27,Office Chair,Furniture,4,6157.8,Gwalior,Net Banking,Delivered
+ORD1677,CUST249,2026-01-22,T-Shirt,Fashion,2,682.14,Pune,Net Banking,Shipped
+ORD1678,CUST124,2026-09-13,Shoes,Fashion,1,2958.77,Lucknow,Debit Card,Delivered
+ORD1679,CUST303,2026-10-02,Laptop,Electronics,3,46951.76,Indore,Credit Card,Cancelled
+ORD1680,CUST307,2026-06-27,Office Chair,Furniture,3,7439.27,Pune,Credit Card,Delivered
+ORD1681,CUST331,2026-05-09,T-Shirt,Fashion,3,853.86,Bhopal,Cash on Delivery,Cancelled
+ORD1682,CUST149,2026-09-08,Water Bottle,Home & Kitchen,3,455.77,Lucknow,Credit Card,Returned
+ORD1683,CUST323,2026-05-21,Shoes,Fashion,3,3423.11,Lucknow,Net Banking,Shipped
+ORD1684,CUST239,2026-05-15,Smartphone,Electronics,2,21665.94,Delhi,Cash on Delivery,Delivered
+ORD1685,CUST259,2026-01-10,Water Bottle,Home & Kitchen,4,481.54,Delhi,Net Banking,Shipped
+ORD1686,CUST310,2026-10-03,Shoes,Fashion,1,3351.96,Mumbai,Credit Card,Returned
+ORD1687,CUST205,2026-06-15,Mixer Grinder,Home Appliances,2,2894.95,Delhi,UPI,Delivered
+ORD1688,CUST146,2026-03-08,Water Bottle,Home & Kitchen,1,388.41,Bhopal,Credit Card,Delivered
+ORD1689,CUST265,2026-10-20,Mixer Grinder,Home Appliances,2,2462.95,Mumbai,Cash on Delivery,Returned
+ORD1690,CUST256,2026-04-24,Backpack,Accessories,3,1210.62,Indore,UPI,Shipped
+ORD1691,CUST193,2026-02-01,Mixer Grinder,Home Appliances,1,2773.17,Jaipur,Cash on Delivery,Processing
+ORD1692,CUST314,2026-02-06,Laptop,Electronics,3,45391.78,Gwalior,UPI,Shipped
+ORD1693,CUST237,2026-04-29,Water Bottle,Home & Kitchen,1,396.17,Mumbai,Credit Card,Shipped
+ORD1694,CUST243,2026-04-02,Water Bottle,Home & Kitchen,2,459.45,Jaipur,Cash on Delivery,Delivered
+ORD1695,CUST327,2026-08-07,Backpack,Accessories,3,1473.29,Indore,Credit Card,Shipped
+ORD1696,CUST237,2026-03-22,Water Bottle,Home & Kitchen,4,450.63,Lucknow,Cash on Delivery,Processing
+ORD1697,CUST296,2026-07-31,Shoes,Fashion,3,3531.06,Mumbai,Debit Card,Returned
+ORD1698,CUST338,2026-10-09,Office Chair,Furniture,2,6256.37,Gwalior,Debit Card,Cancelled
+ORD1699,CUST173,2026-01-18,Mixer Grinder,Home Appliances,4,2380.16,Lucknow,UPI,Returned
+ORD1700,CUST155,2026-04-24,Headphones,Electronics,3,2129.93,Delhi,UPI,Processing
+ORD1701,CUST192,2026-08-24,Water Bottle,Home & Kitchen,2,395.23,Sagar,Credit Card,Processing
+ORD1702,CUST124,2026-06-03,Shoes,Fashion,2,2943.67,Lucknow,Cash on Delivery,Returned
+ORD1703,CUST145,2026-09-05,Office Chair,Furniture,1,6935.98,Pune,Net Banking,Delivered
+ORD1704,CUST198,2026-10-23,Backpack,Accessories,3,1205.7,Indore,UPI,Processing
+ORD1705,CUST323,2026-03-03,Shoes,Fashion,4,3119.86,Jabalpur,Net Banking,Delivered
+ORD1706,CUST182,2026-01-22,T-Shirt,Fashion,1,753.15,Jaipur,Net Banking,Shipped
+ORD1707,CUST349,2026-07-21,Shoes,Fashion,2,2867.07,Pune,Net Banking,Returned
+ORD1708,CUST302,2026-05-29,Water Bottle,Home & Kitchen,1,412.48,Mumbai,Credit Card,Shipped
+ORD1709,CUST241,2026-01-26,Shoes,Fashion,1,3176.82,Mumbai,Debit Card,Delivered
+ORD1710,CUST296,2026-03-08,T-Shirt,Fashion,4,865.72,Sagar,Cash on Delivery,Returned
+ORD1711,CUST151,2026-10-20,Office Chair,Furniture,4,6295.87,Jaipur,Net Banking,Returned
+ORD1712,CUST183,2026-08-09,Office Chair,Furniture,2,5664.71,Lucknow,UPI,Delivered
+ORD1713,CUST183,2026-04-08,T-Shirt,Fashion,4,767.66,Delhi,Net Banking,Delivered
+ORD1714,CUST311,2026-11-12,Desk,Furniture,2,10316.66,Pune,Net Banking,Shipped
+ORD1715,CUST152,2026-04-30,Mixer Grinder,Home Appliances,1,3156.34,Delhi,Credit Card,Delivered
+ORD1716,CUST338,2026-11-14,Smartphone,Electronics,1,20304.12,Sagar,Debit Card,Delivered
+ORD1717,CUST106,2026-08-30,Shoes,Fashion,1,3012.91,Delhi,Credit Card,Returned
+ORD1718,CUST241,2026-05-13,Office Chair,Furniture,2,6590.53,Pune,Net Banking,Shipped
+ORD1719,CUST112,2026-09-27,Laptop,Electronics,4,46120.57,Gwalior,Credit Card,Delivered
+ORD1720,CUST170,2026-11-13,Desk,Furniture,2,9780.81,Bhopal,Cash on Delivery,Delivered
+ORD1721,CUST322,2026-07-04,Smartphone,Electronics,4,23058.46,Indore,UPI,Processing
+ORD1722,CUST282,2026-09-18,T-Shirt,Fashion,2,915.15,Indore,Debit Card,Cancelled
+ORD1723,CUST348,2026-09-14,Backpack,Accessories,1,1268.3,Pune,Net Banking,Delivered
+ORD1724,CUST186,2026-06-06,Laptop,Electronics,2,50700.65,Pune,Cash on Delivery,Shipped
+ORD1725,CUST261,2026-07-01,Laptop,Electronics,3,47488.2,Gwalior,Credit Card,Returned
+ORD1726,CUST328,2026-07-18,Desk,Furniture,1,9339.64,Bhopal,Net Banking,Processing
+ORD1727,CUST269,2026-07-21,Office Chair,Furniture,2,6191.48,Sagar,UPI,Cancelled
+ORD1728,CUST140,2026-10-21,Water Bottle,Home & Kitchen,2,438.84,Mumbai,Debit Card,Returned
+ORD1729,CUST268,2026-04-16,Shoes,Fashion,4,3240.54,Sagar,Net Banking,Returned
+ORD1730,CUST333,2026-09-26,Office Chair,Furniture,2,6127.55,Sagar,Cash on Delivery,Shipped
+ORD1731,CUST237,2026-10-13,Backpack,Accessories,2,1323.35,Indore,Credit Card,Processing
+ORD1732,CUST347,2026-07-31,Headphones,Electronics,1,2699.08,Mumbai,Debit Card,Cancelled
+ORD1733,CUST134,2026-02-24,Desk,Furniture,2,9753.59,Sagar,UPI,Returned
+ORD1734,CUST160,2026-11-10,Backpack,Accessories,3,1444.35,Lucknow,Credit Card,Shipped
+ORD1735,CUST135,2026-09-02,Laptop,Electronics,3,39322.92,Jaipur,Net Banking,Cancelled
+ORD1736,CUST222,2026-09-09,Shoes,Fashion,2,3538.04,Sagar,Credit Card,Shipped
+ORD1737,CUST337,2026-01-08,Office Chair,Furniture,1,6321.75,Gwalior,Cash on Delivery,Shipped
+ORD1738,CUST322,2026-08-13,Office Chair,Furniture,2,5653.97,Lucknow,Cash on Delivery,Processing
+ORD1739,CUST256,2026-01-22,Mixer Grinder,Home Appliances,2,2739.15,Mumbai,Debit Card,Cancelled
+ORD1740,CUST217,2026-08-20,Backpack,Accessories,1,1408.67,Bhopal,Credit Card,Returned
+ORD1741,CUST243,2026-01-21,Water Bottle,Home & Kitchen,4,515.32,Mumbai,Net Banking,Delivered
+ORD1742,CUST299,2026-06-05,Office Chair,Furniture,3,6382.13,Gwalior,Cash on Delivery,Shipped
+ORD1743,CUST277,2026-01-28,T-Shirt,Fashion,3,827.15,Jaipur,Credit Card,Cancelled
+ORD1744,CUST147,2026-02-27,Mixer Grinder,Home Appliances,1,2987.02,Lucknow,Net Banking,Shipped
+ORD1745,CUST146,2026-01-13,T-Shirt,Fashion,4,757.63,Pune,Net Banking,Shipped
+ORD1746,CUST284,2026-03-25,Mixer Grinder,Home Appliances,1,2590.07,Indore,UPI,Delivered
+ORD1747,CUST287,2026-07-16,Mixer Grinder,Home Appliances,3,2451.66,Jaipur,Net Banking,Shipped
+ORD1748,CUST334,2026-03-29,T-Shirt,Fashion,4,690.54,Delhi,Net Banking,Shipped
+ORD1749,CUST208,2026-01-27,Headphones,Electronics,2,2259.15,Gwalior,Debit Card,Cancelled
+ORD1750,CUST346,2026-03-09,Desk,Furniture,2,7967.4,Jabalpur,UPI,Returned
+ORD1751,CUST240,2026-09-13,Desk,Furniture,1,8888.34,Bhopal,Net Banking,Cancelled
+ORD1752,CUST217,2026-09-01,Office Chair,Furniture,2,6673.28,Mumbai,Cash on Delivery,Delivered
+ORD1753,CUST172,2026-10-08,Backpack,Accessories,1,1292.78,Lucknow,Net Banking,Shipped
+ORD1754,CUST110,2026-06-28,Laptop,Electronics,2,40251.46,Sagar,UPI,Returned
+ORD1755,CUST113,2026-02-14,Backpack,Accessories,3,1329.07,Indore,Cash on Delivery,Shipped
+ORD1756,CUST247,2026-11-01,Headphones,Electronics,3,2583.32,Jaipur,Credit Card,Cancelled
+ORD1757,CUST297,2026-02-17,Backpack,Accessories,3,1581.22,Gwalior,Debit Card,Processing
+ORD1758,CUST117,2026-10-09,T-Shirt,Fashion,1,862.03,Gwalior,Cash on Delivery,Shipped
+ORD1759,CUST235,2026-07-31,Smartphone,Electronics,3,20872.78,Jabalpur,Credit Card,Returned
+ORD1760,CUST123,2026-09-28,Laptop,Electronics,1,45963.46,Pune,Net Banking,Processing
+ORD1761,CUST260,2026-10-22,T-Shirt,Fashion,3,742.32,Delhi,Credit Card,Returned
+ORD1762,CUST227,2026-09-12,Backpack,Accessories,4,1408.28,Sagar,Net Banking,Shipped
+ORD1763,CUST220,2026-01-13,Desk,Furniture,2,7654.27,Indore,Credit Card,Returned
+ORD1764,CUST244,2026-06-29,T-Shirt,Fashion,4,690.92,Jabalpur,UPI,Shipped
+ORD1765,CUST177,2026-06-07,Desk,Furniture,3,9783.53,Jaipur,Net Banking,Processing
+ORD1766,CUST202,2026-06-24,Laptop,Electronics,1,47508.78,Lucknow,Net Banking,Delivered
+ORD1767,CUST337,2026-06-23,Headphones,Electronics,2,2372.89,Pune,Cash on Delivery,Delivered
+ORD1768,CUST329,2026-08-24,Headphones,Electronics,4,2241.54,Jaipur,Debit Card,Cancelled
+ORD1769,CUST245,2026-06-03,T-Shirt,Fashion,1,880.43,Delhi,Net Banking,Returned
+ORD1770,CUST305,2026-06-19,Laptop,Electronics,2,46044.87,Delhi,UPI,Shipped
+ORD1771,CUST261,2026-07-12,Desk,Furniture,1,8565.71,Jaipur,Credit Card,Returned
+ORD1772,CUST322,2026-03-01,Backpack,Accessories,4,1268.7,Gwalior,Debit Card,Delivered
+ORD1773,CUST196,2026-05-02,Desk,Furniture,4,7884.35,Pune,Debit Card,Shipped
+ORD1774,CUST301,2026-07-11,Water Bottle,Home & Kitchen,3,406.13,Bhopal,Credit Card,Delivered
+ORD1775,CUST140,2026-09-14,Mixer Grinder,Home Appliances,1,3051.18,Jabalpur,Debit Card,Cancelled
+ORD1776,CUST297,2026-03-15,Water Bottle,Home & Kitchen,3,487.2,Indore,Net Banking,Shipped
+ORD1777,CUST130,2026-09-25,Office Chair,Furniture,1,6420.77,Bhopal,Debit Card,Delivered
+ORD1778,CUST127,2026-01-24,Backpack,Accessories,1,1329.98,Jaipur,Debit Card,Delivered
+ORD1779,CUST183,2026-04-18,Backpack,Accessories,3,1458.32,Jabalpur,Credit Card,Processing
+ORD1780,CUST170,2026-03-02,Desk,Furniture,3,9736.53,Sagar,Credit Card,Processing
+ORD1781,CUST232,2026-10-14,Smartphone,Electronics,1,25024.77,Indore,Credit Card,Returned
+ORD1782,CUST247,2026-05-26,Shoes,Fashion,3,2980.21,Jabalpur,Credit Card,Delivered
+ORD1783,CUST134,2026-01-26,Desk,Furniture,3,9109.56,Bhopal,Cash on Delivery,Delivered
+ORD1784,CUST201,2026-08-07,Smartphone,Electronics,4,19055.08,Sagar,Net Banking,Returned
+ORD1785,CUST283,2026-04-12,Mixer Grinder,Home Appliances,3,2642.45,Jaipur,UPI,Cancelled
+ORD1786,CUST125,2026-08-28,Backpack,Accessories,2,1229.02,Pune,Debit Card,Cancelled
+ORD1787,CUST321,2026-03-15,Mixer Grinder,Home Appliances,2,3175.86,Lucknow,Debit Card,Processing
+ORD1788,CUST302,2026-06-19,T-Shirt,Fashion,2,847.91,Delhi,Cash on Delivery,Cancelled
+ORD1789,CUST223,2026-06-29,Laptop,Electronics,1,44667.01,Pune,Credit Card,Processing
+ORD1790,CUST310,2026-07-27,Shoes,Fashion,2,3207.63,Indore,Debit Card,Returned
+ORD1791,CUST252,2026-07-25,Smartphone,Electronics,3,22216.12,Mumbai,Credit Card,Returned
+ORD1792,CUST117,2026-07-16,Office Chair,Furniture,2,7424.09,Delhi,Credit Card,Returned
+ORD1793,CUST240,2026-06-25,T-Shirt,Fashion,4,816.13,Jabalpur,Credit Card,Delivered
+ORD1794,CUST219,2026-11-02,Backpack,Accessories,4,1238.02,Delhi,Net Banking,Delivered
+ORD1795,CUST118,2026-07-27,Mixer Grinder,Home Appliances,2,2638.75,Lucknow,UPI,Returned
+ORD1796,CUST124,2026-02-01,T-Shirt,Fashion,3,798.63,Jabalpur,Credit Card,Returned
+ORD1797,CUST237,2026-08-20,Laptop,Electronics,2,47171.9,Gwalior,Cash on Delivery,Returned
+ORD1798,CUST177,2026-06-12,Backpack,Accessories,4,1272.18,Lucknow,Debit Card,Cancelled
+ORD1799,CUST231,2026-11-10,Shoes,Fashion,1,3279.42,Mumbai,Credit Card,Processing
+ORD1800,CUST101,2026-01-28,Laptop,Electronics,3,50414.52,Jaipur,Debit Card,Delivered
+ORD1801,CUST201,2026-10-30,Desk,Furniture,1,8285.15,Delhi,Cash on Delivery,Cancelled
+ORD1802,CUST222,2026-03-30,T-Shirt,Fashion,4,810.83,Sagar,Credit Card,Returned
+ORD1803,CUST174,2026-03-20,T-Shirt,Fashion,3,881.59,Sagar,Credit Card,Delivered
+ORD1804,CUST269,2026-09-07,Smartphone,Electronics,1,19650.37,Mumbai,Credit Card,Delivered
+ORD1805,CUST339,2026-11-06,Headphones,Electronics,4,2770.11,Mumbai,Net Banking,Shipped
+ORD1806,CUST199,2026-08-19,Mixer Grinder,Home Appliances,4,2843.72,Delhi,Credit Card,Shipped
+ORD1807,CUST283,2026-05-02,T-Shirt,Fashion,1,818.71,Jaipur,Debit Card,Cancelled
+ORD1808,CUST246,2026-01-20,Water Bottle,Home & Kitchen,3,387.02,Pune,Debit Card,Delivered
+ORD1809,CUST137,2026-02-10,Backpack,Accessories,4,1593.93,Jaipur,Debit Card,Cancelled
+ORD1810,CUST123,2026-11-09,Water Bottle,Home & Kitchen,1,453.15,Jabalpur,Cash on Delivery,Delivered
+ORD1811,CUST237,2026-06-25,Water Bottle,Home & Kitchen,3,465.26,Bhopal,Cash on Delivery,Cancelled
+ORD1812,CUST208,2026-06-19,Water Bottle,Home & Kitchen,4,459.99,Delhi,Debit Card,Processing
+ORD1813,CUST292,2026-11-02,Headphones,Electronics,1,2646.29,Gwalior,Net Banking,Processing
+ORD1814,CUST114,2026-10-21,Laptop,Electronics,4,46054.9,Gwalior,Net Banking,Delivered
+ORD1815,CUST120,2026-09-16,Desk,Furniture,4,7872.78,Gwalior,Debit Card,Shipped
+ORD1816,CUST104,2026-05-12,Backpack,Accessories,3,1305.59,Indore,Net Banking,Shipped
+ORD1817,CUST307,2026-07-09,Backpack,Accessories,2,1466.85,Sagar,Debit Card,Shipped
+ORD1818,CUST188,2026-01-17,Mixer Grinder,Home Appliances,2,3051.47,Indore,Credit Card,Returned
+ORD1819,CUST298,2026-07-31,Headphones,Electronics,4,2689.57,Mumbai,Credit Card,Cancelled
+ORD1820,CUST114,2026-06-26,Headphones,Electronics,2,2558.32,Gwalior,UPI,Delivered
+ORD1821,CUST222,2026-06-04,Headphones,Electronics,4,2424.06,Jaipur,Credit Card,Cancelled
+ORD1822,CUST323,2026-09-29,T-Shirt,Fashion,4,743.03,Mumbai,UPI,Processing
+ORD1823,CUST275,2026-09-29,Mixer Grinder,Home Appliances,4,2949.93,Bhopal,UPI,Returned
+ORD1824,CUST186,2026-05-20,Shoes,Fashion,4,3306.07,Gwalior,Debit Card,Delivered
+ORD1825,CUST288,2026-05-04,Desk,Furniture,4,8894.99,Lucknow,Credit Card,Returned
+ORD1826,CUST273,2026-01-06,Shoes,Fashion,2,3020.74,Bhopal,UPI,Delivered
+ORD1827,CUST190,2026-08-17,T-Shirt,Fashion,1,806.06,Jabalpur,Debit Card,Processing
+ORD1828,CUST115,2026-02-17,Office Chair,Furniture,1,5571.22,Lucknow,Credit Card,Returned
+ORD1829,CUST134,2026-11-06,Smartphone,Electronics,1,19270.15,Mumbai,Net Banking,Shipped
+ORD1830,CUST270,2026-08-28,Smartphone,Electronics,2,20372.02,Indore,Cash on Delivery,Processing
+ORD1831,CUST171,2026-02-07,T-Shirt,Fashion,3,741.76,Bhopal,Cash on Delivery,Cancelled
+ORD1832,CUST146,2026-05-16,Shoes,Fashion,1,2967.91,Pune,UPI,Cancelled
+ORD1833,CUST128,2026-09-09,Office Chair,Furniture,4,5872.96,Sagar,Net Banking,Cancelled
+ORD1834,CUST127,2026-05-13,Office Chair,Furniture,1,7304.59,Bhopal,UPI,Delivered
+ORD1835,CUST330,2026-01-10,Backpack,Accessories,3,1516.44,Pune,Credit Card,Delivered
+ORD1836,CUST332,2026-06-18,Laptop,Electronics,4,41846.89,Mumbai,Net Banking,Delivered
+ORD1837,CUST317,2026-07-26,Water Bottle,Home & Kitchen,4,447.05,Indore,Net Banking,Shipped
+ORD1838,CUST132,2026-09-04,Laptop,Electronics,4,51131.1,Lucknow,Net Banking,Processing
+ORD1839,CUST194,2026-02-16,Shoes,Fashion,3,3104.59,Jaipur,Debit Card,Delivered
+ORD1840,CUST242,2026-04-01,Mixer Grinder,Home Appliances,3,2924.15,Bhopal,Cash on Delivery,Shipped
+ORD1841,CUST225,2026-07-03,Desk,Furniture,4,10070.44,Indore,Cash on Delivery,Shipped
+ORD1842,CUST162,2026-10-31,Headphones,Electronics,1,2269.82,Pune,Cash on Delivery,Delivered
+ORD1843,CUST348,2026-08-19,Water Bottle,Home & Kitchen,3,449.96,Bhopal,UPI,Processing
+ORD1844,CUST204,2026-01-22,Laptop,Electronics,3,48885.01,Indore,Credit Card,Returned
+ORD1845,CUST337,2026-04-30,Mixer Grinder,Home Appliances,2,3002.48,Indore,UPI,Shipped
+ORD1846,CUST112,2026-11-13,Mixer Grinder,Home Appliances,1,2775.82,Jabalpur,Credit Card,Delivered
+ORD1847,CUST217,2026-02-19,Headphones,Electronics,1,2803.5,Lucknow,Credit Card,Returned
+ORD1848,CUST305,2026-11-01,Smartphone,Electronics,1,19453.59,Lucknow,Credit Card,Delivered
+ORD1849,CUST184,2026-07-25,Office Chair,Furniture,4,6182.82,Indore,Net Banking,Returned
+ORD1850,CUST296,2026-04-20,Headphones,Electronics,3,2752.32,Bhopal,Net Banking,Shipped
+ORD1851,CUST294,2026-03-14,Shoes,Fashion,1,2835.92,Mumbai,Credit Card,Processing
+ORD1852,CUST111,2026-10-25,Water Bottle,Home & Kitchen,2,441.72,Sagar,UPI,Returned
+ORD1853,CUST121,2026-09-07,T-Shirt,Fashion,2,683.75,Bhopal,UPI,Shipped
+ORD1854,CUST278,2026-09-01,Smartphone,Electronics,3,21447.07,Sagar,Credit Card,Shipped
+ORD1855,CUST257,2026-03-31,Desk,Furniture,4,8762.48,Bhopal,Net Banking,Shipped
+ORD1856,CUST190,2026-06-04,Mixer Grinder,Home Appliances,1,2906.84,Mumbai,UPI,Returned
+ORD1857,CUST125,2026-09-29,Office Chair,Furniture,2,5754.14,Lucknow,Debit Card,Returned
+ORD1858,CUST269,2026-11-17,Water Bottle,Home & Kitchen,2,445.17,Jabalpur,Debit Card,Delivered
+ORD1859,CUST228,2026-08-31,Office Chair,Furniture,1,7078.4,Sagar,Credit Card,Delivered
+ORD1860,CUST165,2026-08-11,Laptop,Electronics,3,42098.37,Delhi,Net Banking,Cancelled
+ORD1861,CUST146,2026-10-03,Laptop,Electronics,1,48245.63,Sagar,UPI,Cancelled
+ORD1862,CUST285,2026-05-01,Water Bottle,Home & Kitchen,1,392.07,Pune,Net Banking,Returned
+ORD1863,CUST159,2026-06-16,Shoes,Fashion,4,2910.8,Indore,Debit Card,Shipped
+ORD1864,CUST197,2026-04-13,Smartphone,Electronics,2,23569.14,Jabalpur,UPI,Cancelled
+ORD1865,CUST138,2026-08-12,Backpack,Accessories,4,1212.82,Jabalpur,Net Banking,Cancelled
+ORD1866,CUST285,2026-08-23,Headphones,Electronics,4,2405.11,Jabalpur,Debit Card,Processing
+ORD1867,CUST116,2026-10-19,Office Chair,Furniture,3,5773.06,Gwalior,Credit Card,Delivered
+ORD1868,CUST157,2026-06-25,Mixer Grinder,Home Appliances,4,2731.31,Gwalior,Net Banking,Shipped
+ORD1869,CUST319,2026-10-11,Backpack,Accessories,2,1432.81,Jabalpur,UPI,Cancelled
+ORD1870,CUST252,2026-04-21,Water Bottle,Home & Kitchen,4,498.9,Pune,Cash on Delivery,Processing
+ORD1871,CUST164,2026-05-07,Laptop,Electronics,4,48188.41,Delhi,Cash on Delivery,Returned
+ORD1872,CUST207,2026-01-03,Office Chair,Furniture,2,7306.82,Bhopal,UPI,Cancelled
+ORD1873,CUST223,2026-07-21,Water Bottle,Home & Kitchen,1,439.97,Indore,Cash on Delivery,Cancelled
+ORD1874,CUST278,2026-01-07,Office Chair,Furniture,1,6614.05,Mumbai,Credit Card,Shipped
+ORD1875,CUST105,2026-02-16,Shoes,Fashion,3,2949.5,Pune,Debit Card,Shipped
+ORD1876,CUST298,2026-08-26,Mixer Grinder,Home Appliances,1,3200.19,Sagar,Cash on Delivery,Shipped
+ORD1877,CUST321,2026-01-01,Shoes,Fashion,4,3395.75,Indore,Cash on Delivery,Processing
+ORD1878,CUST279,2026-05-19,Water Bottle,Home & Kitchen,1,422.54,Lucknow,Net Banking,Returned
+ORD1879,CUST289,2026-06-21,Office Chair,Furniture,1,6734.89,Bhopal,Net Banking,Processing
+ORD1880,CUST259,2026-08-27,Laptop,Electronics,1,43419.89,Bhopal,Debit Card,Processing
+ORD1881,CUST136,2026-04-15,Headphones,Electronics,1,2545.57,Delhi,Credit Card,Returned
+ORD1882,CUST324,2026-10-25,Smartphone,Electronics,4,23566.71,Jabalpur,Credit Card,Processing
+ORD1883,CUST171,2026-08-05,Shoes,Fashion,3,3203.42,Bhopal,UPI,Processing
+ORD1884,CUST313,2026-09-27,Shoes,Fashion,4,3186.78,Indore,Cash on Delivery,Returned
+ORD1885,CUST305,2026-07-08,Water Bottle,Home & Kitchen,3,443.52,Indore,Credit Card,Cancelled
+ORD1886,CUST174,2026-04-02,Smartphone,Electronics,1,21278.5,Indore,UPI,Shipped
+ORD1887,CUST139,2026-09-12,Desk,Furniture,1,9532.12,Jabalpur,Net Banking,Delivered
+ORD1888,CUST339,2026-10-05,Desk,Furniture,4,10267.85,Sagar,Cash on Delivery,Processing
+ORD1889,CUST175,2026-01-11,T-Shirt,Fashion,4,857.05,Jabalpur,UPI,Delivered
+ORD1890,CUST268,2026-06-25,Office Chair,Furniture,3,6327.8,Delhi,Cash on Delivery,Returned
+ORD1891,CUST134,2026-10-18,Water Bottle,Home & Kitchen,4,444.33,Gwalior,Credit Card,Processing
+ORD1892,CUST298,2026-05-28,Office Chair,Furniture,4,6250.21,Bhopal,Credit Card,Processing
+ORD1893,CUST337,2026-11-13,Desk,Furniture,4,10231.78,Sagar,Net Banking,Processing
+ORD1894,CUST142,2026-03-20,Headphones,Electronics,2,2754.5,Jabalpur,UPI,Delivered
+ORD1895,CUST148,2026-07-09,Shoes,Fashion,2,3143.25,Jabalpur,Net Banking,Delivered
+ORD1896,CUST239,2026-08-18,Shoes,Fashion,3,2862.03,Sagar,Net Banking,Processing
+ORD1897,CUST297,2026-09-13,Smartphone,Electronics,1,21370.11,Sagar,Cash on Delivery,Processing
+ORD1898,CUST350,2026-10-07,Headphones,Electronics,1,2852.61,Jaipur,Debit Card,Processing
+ORD1899,CUST271,2026-10-21,Mixer Grinder,Home Appliances,3,3194.47,Sagar,Net Banking,Cancelled
+ORD1900,CUST136,2026-01-21,Shoes,Fashion,1,3422.37,Jaipur,UPI,Processing
+ORD1901,CUST215,2026-04-23,Laptop,Electronics,4,46586.55,Delhi,UPI,Processing
+ORD1902,CUST301,2026-04-24,Laptop,Electronics,2,46126.32,Gwalior,Credit Card,Delivered
+ORD1903,CUST350,2026-02-14,Smartphone,Electronics,4,23168.62,Jaipur,Cash on Delivery,Shipped
+ORD1904,CUST342,2026-09-19,Mixer Grinder,Home Appliances,3,2886.66,Bhopal,Debit Card,Cancelled
+ORD1905,CUST104,2026-07-10,Headphones,Electronics,4,2402.22,Gwalior,Debit Card,Processing
+ORD1906,CUST156,2026-02-14,Desk,Furniture,4,10010.61,Pune,Cash on Delivery,Cancelled
+ORD1907,CUST287,2026-08-06,Desk,Furniture,2,9825.32,Mumbai,Credit Card,Returned
+ORD1908,CUST222,2026-06-05,Backpack,Accessories,1,1250.33,Jaipur,Debit Card,Delivered
+ORD1909,CUST264,2026-07-29,Backpack,Accessories,4,1227.15,Gwalior,Cash on Delivery,Shipped
+ORD1910,CUST152,2026-03-12,Water Bottle,Home & Kitchen,4,478.38,Sagar,Cash on Delivery,Processing
+ORD1911,CUST314,2026-06-04,Water Bottle,Home & Kitchen,4,388.2,Lucknow,Debit Card,Cancelled
+ORD1912,CUST140,2026-01-02,Water Bottle,Home & Kitchen,4,412.81,Gwalior,Debit Card,Cancelled
+ORD1913,CUST333,2026-09-09,Smartphone,Electronics,3,21453.23,Jabalpur,UPI,Delivered
+ORD1914,CUST254,2026-02-04,Desk,Furniture,4,10334.7,Delhi,Net Banking,Cancelled
+ORD1915,CUST350,2026-09-01,Backpack,Accessories,4,1554.71,Indore,Debit Card,Returned
+ORD1916,CUST249,2026-03-25,Backpack,Accessories,1,1545.02,Bhopal,Credit Card,Processing
+ORD1917,CUST170,2026-01-28,Mixer Grinder,Home Appliances,2,2680.2,Delhi,Cash on Delivery,Processing
+ORD1918,CUST232,2026-02-09,Laptop,Electronics,3,42187.47,Jabalpur,Credit Card,Delivered
+ORD1919,CUST312,2026-06-11,Backpack,Accessories,2,1418.36,Gwalior,Debit Card,Processing
+ORD1920,CUST136,2026-01-07,Smartphone,Electronics,3,24133.88,Jaipur,Debit Card,Processing
+ORD1921,CUST127,2026-03-25,Mixer Grinder,Home Appliances,4,2665.86,Jabalpur,Credit Card,Returned
+ORD1922,CUST258,2026-10-14,Office Chair,Furniture,2,7075.46,Jaipur,Net Banking,Returned
+ORD1923,CUST130,2026-02-09,Smartphone,Electronics,4,21739.24,Sagar,UPI,Cancelled
+ORD1924,CUST310,2026-03-13,Shoes,Fashion,3,3383.41,Pune,Net Banking,Returned
+ORD1925,CUST291,2026-01-15,Shoes,Fashion,2,3401.5,Indore,Credit Card,Shipped
+ORD1926,CUST134,2026-04-18,Headphones,Electronics,2,2355.57,Indore,Cash on Delivery,Delivered
+ORD1927,CUST111,2026-08-09,Smartphone,Electronics,1,23812.97,Jabalpur,UPI,Delivered
+ORD1928,CUST112,2026-05-10,Water Bottle,Home & Kitchen,1,445.83,Indore,Debit Card,Delivered
+ORD1929,CUST251,2026-04-16,Smartphone,Electronics,1,24772.65,Jabalpur,Credit Card,Processing
+ORD1930,CUST343,2026-05-23,Laptop,Electronics,1,40215.02,Lucknow,Debit Card,Processing
+ORD1931,CUST126,2026-02-04,Headphones,Electronics,2,2503.68,Lucknow,UPI,Returned
+ORD1932,CUST331,2026-03-29,Office Chair,Furniture,2,7405.31,Jaipur,UPI,Delivered
+ORD1933,CUST148,2026-10-29,Office Chair,Furniture,4,6239.6,Pune,UPI,Shipped
+ORD1934,CUST159,2026-09-21,Shoes,Fashion,4,3127.13,Mumbai,UPI,Processing
+ORD1935,CUST227,2026-03-11,Smartphone,Electronics,4,19428.09,Delhi,Debit Card,Returned
+ORD1936,CUST199,2026-03-01,Laptop,Electronics,1,42679.56,Gwalior,Cash on Delivery,Returned
+ORD1937,CUST175,2026-07-28,Desk,Furniture,4,8259.86,Mumbai,Credit Card,Delivered
+ORD1938,CUST273,2026-09-09,Mixer Grinder,Home Appliances,3,2530.61,Indore,Cash on Delivery,Cancelled
+ORD1939,CUST203,2026-07-22,Water Bottle,Home & Kitchen,1,398.59,Lucknow,UPI,Shipped
+ORD1940,CUST152,2026-06-23,Smartphone,Electronics,3,25136.37,Lucknow,Cash on Delivery,Delivered
+ORD1941,CUST296,2026-05-23,Office Chair,Furniture,4,6939.14,Lucknow,Net Banking,Processing
+ORD1942,CUST344,2026-11-05,T-Shirt,Fashion,3,794.2,Mumbai,Cash on Delivery,Returned
+ORD1943,CUST132,2026-02-25,Desk,Furniture,2,9723.6,Gwalior,Cash on Delivery,Cancelled
+ORD1944,CUST313,2026-01-28,Office Chair,Furniture,2,5582.96,Indore,Cash on Delivery,Delivered
+ORD1945,CUST140,2026-06-17,Headphones,Electronics,4,2578.44,Gwalior,Net Banking,Returned
+ORD1946,CUST297,2026-09-24,Smartphone,Electronics,1,23063.13,Pune,Cash on Delivery,Shipped
+ORD1947,CUST239,2026-05-14,Desk,Furniture,4,8973.68,Delhi,Net Banking,Returned
+ORD1948,CUST199,2026-03-02,Laptop,Electronics,1,51624.61,Pune,Debit Card,Cancelled
+ORD1949,CUST243,2026-04-01,Mixer Grinder,Home Appliances,4,2410.22,Gwalior,Credit Card,Cancelled
+ORD1950,CUST225,2026-07-19,T-Shirt,Fashion,2,754.99,Indore,Net Banking,Cancelled
+ORD1951,CUST230,2026-03-22,Water Bottle,Home & Kitchen,4,446.75,Bhopal,Cash on Delivery,Processing
+ORD1952,CUST297,2026-06-30,Mixer Grinder,Home Appliances,4,2898.23,Gwalior,Debit Card,Delivered
+ORD1953,CUST190,2026-07-07,Laptop,Electronics,1,39980.67,Lucknow,UPI,Processing
+ORD1954,CUST206,2026-07-02,T-Shirt,Fashion,1,782.76,Delhi,UPI,Shipped
+ORD1955,CUST122,2026-10-31,Office Chair,Furniture,2,6788.76,Indore,Debit Card,Delivered
+ORD1956,CUST110,2026-06-16,Shoes,Fashion,2,2738.92,Pune,Cash on Delivery,Returned
+ORD1957,CUST251,2026-08-29,Water Bottle,Home & Kitchen,4,418.49,Bhopal,Debit Card,Cancelled
+ORD1958,CUST307,2026-02-20,Backpack,Accessories,4,1325.42,Pune,UPI,Shipped
+ORD1959,CUST143,2026-06-23,Shoes,Fashion,4,3202.66,Lucknow,Debit Card,Processing
+ORD1960,CUST316,2026-02-08,T-Shirt,Fashion,2,799.27,Jaipur,Credit Card,Processing
+ORD1961,CUST203,2026-10-21,Desk,Furniture,1,8452.76,Jabalpur,Net Banking,Delivered
+ORD1962,CUST118,2026-05-20,Backpack,Accessories,1,1438.58,Lucknow,Net Banking,Cancelled
+ORD1963,CUST267,2026-02-09,T-Shirt,Fashion,2,763.36,Gwalior,Net Banking,Processing
+ORD1964,CUST165,2026-07-25,T-Shirt,Fashion,3,728.02,Lucknow,Net Banking,Cancelled
+ORD1965,CUST321,2026-09-22,Water Bottle,Home & Kitchen,2,501.42,Sagar,Net Banking,Cancelled
+ORD1966,CUST308,2026-09-30,Office Chair,Furniture,4,6047.48,Lucknow,Cash on Delivery,Returned
+ORD1967,CUST162,2026-03-17,Laptop,Electronics,2,43167.71,Sagar,Debit Card,Cancelled
+ORD1968,CUST263,2026-02-02,T-Shirt,Fashion,3,886.44,Jabalpur,Cash on Delivery,Processing
+ORD1969,CUST161,2026-11-04,Desk,Furniture,2,8342.41,Mumbai,Credit Card,Delivered
+ORD1970,CUST219,2026-06-08,Headphones,Electronics,2,2145.78,Pune,Net Banking,Cancelled
+ORD1971,CUST135,2026-05-20,T-Shirt,Fashion,1,728.48,Bhopal,Debit Card,Processing
+ORD1972,CUST347,2026-01-22,Water Bottle,Home & Kitchen,2,469.48,Pune,UPI,Delivered
+ORD1973,CUST331,2026-02-02,Smartphone,Electronics,3,22670.56,Mumbai,Debit Card,Delivered
+ORD1974,CUST289,2026-10-20,T-Shirt,Fashion,2,736.65,Jaipur,UPI,Returned
+ORD1975,CUST161,2026-02-16,Backpack,Accessories,3,1398.51,Lucknow,UPI,Processing
+ORD1976,CUST340,2026-05-01,Shoes,Fashion,4,3493.61,Mumbai,Credit Card,Shipped
+ORD1977,CUST213,2026-05-21,Smartphone,Electronics,2,20113.12,Mumbai,Debit Card,Returned
+ORD1978,CUST182,2026-02-27,Laptop,Electronics,4,45451.84,Jaipur,Cash on Delivery,Cancelled
+ORD1979,CUST193,2026-03-16,Office Chair,Furniture,3,7239.9,Pune,Debit Card,Processing
+ORD1980,CUST277,2026-01-28,Laptop,Electronics,1,49609.89,Jabalpur,Debit Card,Returned
+ORD1981,CUST332,2026-07-05,T-Shirt,Fashion,3,833.35,Indore,Net Banking,Shipped
+ORD1982,CUST338,2026-07-21,Mixer Grinder,Home Appliances,4,2386.61,Gwalior,Debit Card,Delivered
+ORD1983,CUST335,2026-03-24,Office Chair,Furniture,3,5935.25,Pune,Debit Card,Cancelled
+ORD1984,CUST221,2026-09-09,Laptop,Electronics,3,49947.0,Mumbai,Debit Card,Cancelled
+ORD1985,CUST117,2026-09-17,Smartphone,Electronics,2,23309.98,Delhi,Cash on Delivery,Returned
+ORD1986,CUST296,2026-01-15,Water Bottle,Home & Kitchen,3,443.69,Bhopal,Credit Card,Cancelled
+ORD1987,CUST181,2026-06-06,Headphones,Electronics,1,2425.5,Lucknow,UPI,Delivered
+ORD1988,CUST317,2026-03-08,Headphones,Electronics,2,2512.27,Lucknow,Cash on Delivery,Processing
+ORD1989,CUST167,2026-03-10,Mixer Grinder,Home Appliances,4,3113.74,Sagar,Net Banking,Processing
+ORD1990,CUST147,2026-07-08,Desk,Furniture,2,7877.88,Mumbai,Cash on Delivery,Returned
+ORD1991,CUST266,2026-10-13,Office Chair,Furniture,1,7373.81,Lucknow,Credit Card,Delivered
+ORD1992,CUST113,2026-03-28,Mixer Grinder,Home Appliances,2,2599.9,Mumbai,Net Banking,Cancelled
+ORD1993,CUST144,2026-07-08,Backpack,Accessories,3,1252.69,Lucknow,UPI,Delivered
+ORD1994,CUST312,2026-08-21,Water Bottle,Home & Kitchen,4,486.9,Pune,UPI,Shipped
+ORD1995,CUST174,2026-05-17,Office Chair,Furniture,2,7369.8,Pune,Cash on Delivery,Shipped
+ORD1996,CUST287,2026-05-25,T-Shirt,Fashion,2,824.02,Jabalpur,Cash on Delivery,Shipped
+ORD1997,CUST161,2026-05-15,T-Shirt,Fashion,2,686.91,Lucknow,Cash on Delivery,Shipped
+ORD1998,CUST135,2026-08-29,Shoes,Fashion,4,2802.31,Delhi,Cash on Delivery,Shipped
+ORD1999,CUST119,2026-05-12,T-Shirt,Fashion,4,856.66,Indore,Net Banking,Delivered
+ORD2000,CUST333,2026-08-30,Laptop,Electronics,3,50819.37,Delhi,Net Banking,Returned
